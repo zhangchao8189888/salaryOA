@@ -1,0 +1,2300 @@
+
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-18 11:05:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:05:16
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2014-03-18 11:11:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"[json] (json_encode_r) type is unsupported, encoded as null.","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\ext\\view\\Service\\ServiceIndex.php","errLine":5} @@@@@@@@
+Begin Time: 2014-03-18 11:14:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:14:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:25:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:26:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:34:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:37:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 11:39:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/ExtEmployForm.class.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-03-18 12:21:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/ExtEmployForm.class.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-03-18 12:21:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/ExtEmployDao.class.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-03-18 12:22:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"[json] (json_encode_r) type is unsupported, encoded as null.","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":96} @@@@@@@@
+Begin Time: 2014-03-18 12:24:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"[json] (json_encode_r) type is unsupported, encoded as null.","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":98} @@@@@@@@
+Begin Time: 2014-03-18 12:28:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"[json] (json_encode_r) type is unsupported, encoded as null.","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":98} @@@@@@@@
+Begin Time: 2014-03-18 12:35:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"[json] (json_encode_r) type is unsupported, encoded as null.","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":98} @@@@@@@@
+Begin Time: 2014-03-18 12:35:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:44:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 12:56:49
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from  OA_employ  where convert( e_company using utf8) in (select c.company_name from OA_company c,OA_admin_company a  where Array
+  and a.companyId = c.id  and  a.adminId = 39) @@@@@@@@
+Begin Time: 2014-03-18 13:10:27
+**************sql_msg**************
+@@@@@@@@ select *  from  OA_employ  where convert( e_company using utf8) in (select c.company_name from OA_company c,OA_admin_company a  where Array
+  and a.companyId = c.id  and  a.adminId = 39) order by id DESC limit 0,50 @@@@@@@@
+Begin Time: 2014-03-18 13:10:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":81} @@@@@@@@
+Begin Time: 2014-03-18 13:10:27
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from  OA_employ  where convert( e_company using utf8) in (select c.company_name from OA_company c,OA_admin_company a  where Array
+  and a.companyId = c.id  and  a.adminId = 39) @@@@@@@@
+Begin Time: 2014-03-18 13:10:35
+**************sql_msg**************
+@@@@@@@@ select *  from  OA_employ  where convert( e_company using utf8) in (select c.company_name from OA_company c,OA_admin_company a  where Array
+  and a.companyId = c.id  and  a.adminId = 39) order by id DESC limit 0,50 @@@@@@@@
+Begin Time: 2014-03-18 13:10:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":81} @@@@@@@@
+Begin Time: 2014-03-18 13:10:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 13:12:16
+**************sql_msg**************
+@@@@@@@@ select *  from  OA_employ  where convert( e_company using utf8) in (select c.company_name from OA_company c,OA_admin_company a  where a.companyId = c.id  and  a.adminId = 39) order by  DESC limit 0,50 @@@@@@@@
+Begin Time: 2014-03-18 14:18:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":83} @@@@@@@@
+Begin Time: 2014-03-18 14:18:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtEmployAction.class.php","errLine":112} @@@@@@@@
+Begin Time: 2014-03-18 14:18:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:29:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 14:37:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:01:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:02:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:05:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:08:58
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2014-03-18 15:23:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:24:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:25:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:26:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:29:18
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-18 15:40:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 15:40:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 16:59:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:25:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:26:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 17:27:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:11:48
+**************sql_msg**************
+@@@@@@@@ update OA_bill  set bill_item='审批发放' , bill_value= where id=6607  @@@@@@@@
+Begin Time: 2014-03-18 18:12:46
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-18 18:16:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:18:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:18:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:18:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:18:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:21:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:22:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:24:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:25:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:32:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:33:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:34:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:35:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:36:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:38:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:39:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:47:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:48:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:49:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:52:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:53:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-18 18:54:36

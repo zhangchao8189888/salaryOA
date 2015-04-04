@@ -1,0 +1,775 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 11:28:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 11:28:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 11:28:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 14:47:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 14:47:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 14:47:54
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-13 15:40:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 15:40:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 15:40:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 15:40:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:26:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:26:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 17:26:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2015-01-13 17:28:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:28:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:28:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:28:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:28:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 17:28:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/SaveSalaryForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2015-01-13 17:30:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/SaveSalaryForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2015-01-13 17:31:23
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":160} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error_msg**********
+@@@@@@@@ EC::saveSalary(): save  salaryTime  get last_insert_id  faild  @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/salaryTime.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/salaryTime.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 17:33:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:29:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:29:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-13 18:29:11
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":160} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error_msg**********
+@@@@@@@@ EC::saveSalary(): save  salaryTime  get last_insert_id  faild  @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/salaryTime.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/salaryTime.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:29:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"ereg(): REG_EMPTY","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":163} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function ereg() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SaveSalaryAction.class.php","errLine":165} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":160} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error_msg**********
+@@@@@@@@ EC::saveSalary(): save  salaryTime  get last_insert_id  faild  @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/salaryTime.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/salaryTime.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-13 18:33:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, integer given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-13 18:33:56

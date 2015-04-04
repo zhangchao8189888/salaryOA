@@ -1,0 +1,106 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 09:52:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 09:52:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-22 09:52:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:40:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:40:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-22 16:40:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/baseData\/backup.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:40:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/baseData\/backup.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:40:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":93} @@@@@@@@
+Begin Time: 2015-01-22 16:41:09
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":75} @@@@@@@@
+Begin Time: 2015-01-22 16:44:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":75} @@@@@@@@
+Begin Time: 2015-01-22 16:45:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":97} @@@@@@@@
+Begin Time: 2015-01-22 16:47:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":80} @@@@@@@@
+Begin Time: 2015-01-22 16:47:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":79} @@@@@@@@
+Begin Time: 2015-01-22 16:47:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":82} @@@@@@@@
+Begin Time: 2015-01-22 16:48:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":85} @@@@@@@@
+Begin Time: 2015-01-22 16:48:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":85} @@@@@@@@
+Begin Time: 2015-01-22 16:49:03
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":85} @@@@@@@@
+Begin Time: 2015-01-22 16:49:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:50:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:50:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:50:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:51:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:51:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:51:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:51:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:51:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:51:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:52:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:53:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:53:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 16:53:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:53:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/baseData\/shenfenType_add.php","errLine":77} @@@@@@@@
+Begin Time: 2015-01-22 16:55:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/company\/departmentEdit.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 17:41:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/company\/departmentEdit.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-22 17:41:04

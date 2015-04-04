@@ -1,0 +1,4 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(tpl\/ext\/view\/finance\/employ_bund.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\common\\BaseAction.class.php","errLine":37} @@@@@@@@
+Begin Time: 2014-04-29 11:13:43

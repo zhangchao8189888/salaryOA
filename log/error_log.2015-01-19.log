@@ -1,0 +1,157 @@
+
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 10:59:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:11
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 10:59:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:25
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 10:59:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:47
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 10:59:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:52
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 10:59:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 10:59:56
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 11:00:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 11:00:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 11:00:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 11:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 11:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 11:02:36
+**************sql_msg**************
+@@@@@@@@ select *  from OA_salary where salaryTimeId=2015-01-16.xls @@@@@@@@
+Begin Time: 2015-01-19 11:10:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":306} @@@@@@@@
+Begin Time: 2015-01-19 11:10:16
+**************sql_msg**************
+@@@@@@@@ select *  from OA_total where salaryTime_Id=2015-01-16.xls limit 1 @@@@@@@@
+Begin Time: 2015-01-19 11:10:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/SalaryDao.class.php","errLine":1218} @@@@@@@@
+Begin Time: 2015-01-19 11:10:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 14:25:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 14:25:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 14:25:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 14:25:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 14:25:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 14:25:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 14:47:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 14:47:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:21:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:21:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 20:21:16
+**************sql_msg**************
+@@@@@@@@ select *  from OA_salary where salaryTimeId=2015-01-16.xls @@@@@@@@
+Begin Time: 2015-01-19 20:49:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":306} @@@@@@@@
+Begin Time: 2015-01-19 20:49:59
+**************sql_msg**************
+@@@@@@@@ select *  from OA_total where salaryTime_Id=2015-01-16.xls limit 1 @@@@@@@@
+Begin Time: 2015-01-19 20:49:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/SalaryDao.class.php","errLine":1218} @@@@@@@@
+Begin Time: 2015-01-19 20:49:59
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2015-01-19 20:51:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:51:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:51:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:51:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:51:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 20:51:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:53:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:53:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 20:53:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:59:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-19 20:59:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-19 20:59:12

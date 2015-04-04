@@ -1,0 +1,73 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 11:21:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 11:21:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-10 11:21:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Missing argument 1 for CompanyDao::getCompanyListAll(), called in \/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php on line 170 and defined","errFile":"\/var\/www\/zhongqiOA\/module\/dao\/CompanyDao.class.php","errLine":50} @@@@@@@@
+Begin Time: 2015-01-10 12:07:25
+**************sql_msg**************
+@@@@@@@@ select * from OA_company 1=1  order by update_time desc  @@@@@@@@
+Begin Time: 2015-01-10 12:15:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":177} @@@@@@@@
+Begin Time: 2015-01-10 12:15:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-10 12:28:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:41:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:41:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-10 13:41:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:43:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:43:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-10 13:43:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:46:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-10 13:46:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-10 13:46:26

@@ -1,0 +1,463 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/ProductDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/AdminAction.class.php","errLine":4} @@@@@@@@
+Begin Time: 2014-12-25 11:32:27
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-25 11:33:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/commom\/main.php","errLine":15} @@@@@@@@
+Begin Time: 2014-12-25 11:33:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/commom\/main.php","errLine":15} @@@@@@@@
+Begin Time: 2014-12-25 11:33:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(tpl\/commom\/main.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/common\/BaseAction.class.php","errLine":37} @@@@@@@@
+Begin Time: 2014-12-25 11:38:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(tpl\/commom\/main.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/common\/BaseAction.class.php","errLine":37} @@@@@@@@
+Begin Time: 2014-12-25 11:39:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 11:40:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 11:40:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 11:42:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 11:43:09
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:43:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 11:43:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 11:48:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 11:48:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:48:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:51:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:52:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:54:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:55:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:56:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/CompanyForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2014-12-25 11:57:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-25 11:58:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-25 11:59:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:00:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:00:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:00:51
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:01:09
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:01:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:02:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:02:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":142} @@@@@@@@
+Begin Time: 2014-12-25 12:03:09
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-25 14:42:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 14:42:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 14:42:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 14:42:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":74} @@@@@@@@
+Begin Time: 2014-12-25 14:42:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":63} @@@@@@@@
+Begin Time: 2014-12-25 14:45:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":67} @@@@@@@@
+Begin Time: 2014-12-25 15:04:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:25:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":149} @@@@@@@@
+Begin Time: 2014-12-25 15:25:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:31:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":154} @@@@@@@@
+Begin Time: 2014-12-25 15:31:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:34:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":155} @@@@@@@@
+Begin Time: 2014-12-25 15:34:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":164} @@@@@@@@
+Begin Time: 2014-12-25 15:34:53
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:40:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:40:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:40:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:44:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:44:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:44:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:47:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:47:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:47:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:50:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:50:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:50:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 15:50:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:50:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:50:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:50:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 15:51:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 15:51:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 15:51:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:03:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:03:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:03:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:06:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:06:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:06:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 16:07:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:07:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:07:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:07:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:09:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:09:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:09:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 16:09:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:09:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:09:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:09:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:13:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:13:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:13:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 16:13:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 16:13:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 16:13:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 16:13:47
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-25 17:02:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 17:02:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-25 17:02:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-25 17:02:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:03:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:03:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:03:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:05:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:05:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:05:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 17:06:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:06:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:06:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:06:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:06:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 17:06:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:07:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:07:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:07:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:11:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:11:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:11:07
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 17:11:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:11:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":157} @@@@@@@@
+Begin Time: 2014-12-25 17:11:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":166} @@@@@@@@
+Begin Time: 2014-12-25 17:11:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:13:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":179} @@@@@@@@
+Begin Time: 2014-12-25 17:13:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":201} @@@@@@@@
+Begin Time: 2014-12-25 17:13:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:14:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:14:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:14:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 17:14:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:16:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:16:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:16:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:16:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:16:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:16:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-25 17:16:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:16:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:16:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:16:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:17:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:17:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:17:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:18:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:18:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:18:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:18:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:18:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:18:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:20:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:20:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:20:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:21:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:21:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:21:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:23:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:23:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:23:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-25 17:48:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-25 17:48:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-25 17:48:18

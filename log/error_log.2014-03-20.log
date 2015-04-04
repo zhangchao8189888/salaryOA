@@ -1,0 +1,46 @@
+
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-20 10:57:09
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-20 10:57:14
+**************sql_msg**************
+@@@@@@@@ select e_name,e_hetongnian,up_e_hetong_date where id=19609 @@@@@@@@
+Begin Time: 2014-03-20 11:15:19
+**********error_msg**********
+@@@@@@@@ EC::searchContractInfo(): add business faild  @@@@@@@@
+Begin Time: 2014-03-20 11:15:19
+**************sql_msg**************
+@@@@@@@@ select e_name,e_hetongnian,up_e_hetong_date where id=19610 @@@@@@@@
+Begin Time: 2014-03-20 11:16:07
+**********error_msg**********
+@@@@@@@@ EC::searchContractInfo(): search contractinfo faild  @@@@@@@@
+Begin Time: 2014-03-20 11:16:07

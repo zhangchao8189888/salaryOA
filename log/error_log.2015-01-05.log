@@ -1,0 +1,2158 @@
+
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230882198707070619' @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='580' @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='null' @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:06
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230882198707070619' @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230882198707070617' @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='null' @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:34:26
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230882198707070619' @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230882198707070617' @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='null' @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:36:22
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":390} @@@@@@@@
+Begin Time: 2015-01-05 17:47:49
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621197810033527' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110104196112091634' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108196906070929' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='340207199010011024' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430781198101250029' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198406150448' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='23100219880306153x' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370125198207027044' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320321197207070845' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420116198604154918' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130681199302191262' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37132319890616002X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423198511164031' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423199001254023' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130229198709015074' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320682198710111564' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132823197103080746' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140402198711192021' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370683198511054224' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621198411236524' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370305197910076519' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110105199012229640' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='610103197806230447' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37072319800512476X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='620503198508235715' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130130198208240628' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320103198311242265' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='360102199011234322' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120225198509055226' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140222198409186020' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320602198110300511' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='510812198607025542' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621197204034327' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108196812195747' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370902198108151858' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11010519890617543X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='511128196911293925' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='632822196903210622' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130322198910292023' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='41032419830805142X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411328198101136799' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211022198808090016' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320483199011233212' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420222198202225763' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='630103198403021649' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410901198911265025' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130702198510250920' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370203198310228220' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='372421198001010063' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411202198204074026' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370305197711175012' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='652901198207300444' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430203196903190018' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='371482198904050068' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430223198804071296' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330521198509080229' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370725198611280976' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='513624198112130022' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220102198012023353' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130203198012163022' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230302197605216829' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='23270019840412232x' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140430198902180811' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='321322198410145285' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430121197209154414' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423198803126440' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220202198108260922' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411328198310102931' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='630103198011010019' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130522198909152227' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='622801199103241420' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430527197602050013' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370126198208174827' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120102199009054424' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='432503196709280341' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370683197909202923' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410502198609193029' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220802198812012116' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330727197502236125' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='371324198212204987' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='342623198202193415' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='421023198810100725' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='232301198908080025' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370181198111154429' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='533025198410200022' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='362228198608070064' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='360730198703146343' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='620111197402280546' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230206197803052212' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='432503198301105688' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='612501198010240020' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110228198811130036' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='413001198410252043' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120101198403162553' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='530302198904140938' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450221199008033913' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370832198403220628' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='222303197301138215' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='610321198710032532' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450512198810280511' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11010219870628005x' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370126198804020410' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='210521198901302271' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211382198610163921' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220202198505034531' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='350103198002111929' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132530198206163423' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='341102198110156211' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132530198305142425' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120222197806095028' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130503197110190042' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198208150826' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430725199001171378' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11022419861219244X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430121198609261029' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320381199003092132' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130534198812155865' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='460027198908056218' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110105198803079648' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='152531196709061745' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621198606290045' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102197407082729' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198001180841' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='522628198307300024' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='362133197709150013' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130181198810106122' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370983198610090518' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410901198207184539' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120225198310210014' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='15040219761230032X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230302198607264060' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102196909251532' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='422301198104250928' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130124197206280341' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370283198502237529' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='131182198408143424' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110109198203254612' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450122198003055116' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='21080219830117404X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='421002198112111417' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230102197007080027' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211381198303020414' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220102197007203363' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230605197608022240' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108197902036332' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130683198909227311' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130821198809084212' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='231003198911032038' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37130219890124162X' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410426199005094564' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370783198807040222' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130732199001052945' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230221197206142416' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430522198806188068' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130636198606066720' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430522198709299356' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130503199111061225' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140202198811290584' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110106198909191845' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211422199009280223' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='654101198604192422' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108197205092222' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140581199004041625' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330726199012060078' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230604198407305146' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='131102198806180421' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='612103197708170024' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='142729198006261229' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420625199008123048' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430723198907020042' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='210881198511184727' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430106196202011455' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='null' @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":27} @@@@@@@@
+Begin Time: 2015-01-05 17:48:16
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621197810033527' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110104196112091634' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108196906070929' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='340207199010011024' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430781198101250029' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198406150448' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='23100219880306153x' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370125198207027044' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320321197207070845' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420116198604154918' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130681199302191262' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37132319890616002X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423198511164031' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423199001254023' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130229198709015074' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320682198710111564' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132823197103080746' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140402198711192021' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370683198511054224' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621198411236524' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370305197910076519' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110105199012229640' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='610103197806230447' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37072319800512476X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='620503198508235715' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130130198208240628' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320103198311242265' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='360102199011234322' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120225198509055226' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140222198409186020' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320602198110300511' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='510812198607025542' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621197204034327' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108196812195747' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370902198108151858' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11010519890617543X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='511128196911293925' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='632822196903210622' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130322198910292023' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='41032419830805142X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411328198101136799' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211022198808090016' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320483199011233212' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420222198202225763' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='630103198403021649' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410901198911265025' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130702198510250920' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370203198310228220' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='372421198001010063' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411202198204074026' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370305197711175012' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='652901198207300444' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430203196903190018' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='371482198904050068' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430223198804071296' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330521198509080229' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370725198611280976' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='513624198112130022' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220102198012023353' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130203198012163022' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230302197605216829' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='23270019840412232x' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140430198902180811' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='321322198410145285' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430121197209154414' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410423198803126440' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220202198108260922' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='411328198310102931' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='630103198011010019' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130522198909152227' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='622801199103241420' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430527197602050013' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370126198208174827' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120102199009054424' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='432503196709280341' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370683197909202923' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410502198609193029' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220802198812012116' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330727197502236125' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='371324198212204987' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='342623198202193415' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='421023198810100725' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='232301198908080025' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370181198111154429' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='533025198410200022' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='362228198608070064' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='360730198703146343' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='620111197402280546' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230206197803052212' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='432503198301105688' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='612501198010240020' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110228198811130036' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='413001198410252043' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120101198403162553' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='530302198904140938' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450221199008033913' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370832198403220628' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='222303197301138215' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='610321198710032532' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450512198810280511' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11010219870628005x' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370126198804020410' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='210521198901302271' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211382198610163921' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220202198505034531' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='350103198002111929' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132530198206163423' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='341102198110156211' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='132530198305142425' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120222197806095028' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130503197110190042' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198208150826' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430725199001171378' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='11022419861219244X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430121198609261029' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320381199003092132' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130534198812155865' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='460027198908056218' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110105198803079648' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='152531196709061745' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='320621198606290045' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102197407082729' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102198001180841' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='522628198307300024' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='362133197709150013' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130181198810106122' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370983198610090518' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410901198207184539' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='120225198310210014' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='15040219761230032X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230302198607264060' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110102196909251532' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='422301198104250928' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130124197206280341' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370283198502237529' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='131182198408143424' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110109198203254612' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='450122198003055116' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='21080219830117404X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='421002198112111417' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230102197007080027' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211381198303020414' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='220102197007203363' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230605197608022240' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108197902036332' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130683198909227311' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130821198809084212' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='231003198911032038' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='37130219890124162X' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='410426199005094564' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='370783198807040222' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130732199001052945' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230221197206142416' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430522198806188068' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130636198606066720' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430522198709299356' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='130503199111061225' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140202198811290584' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110106198909191845' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='211422199009280223' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='654101198604192422' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='110108197205092222' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='140581199004041625' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='330726199012060078' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='230604198407305146' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='131102198806180421' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='612103197708170024' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='142729198006261229' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='420625199008123048' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430723198907020042' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='210881198511184727' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='430106196202011455' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**************sql_msg**************
+@@@@@@@@ select *  from or_employ  where e_num='null' @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/common\/BaseDao.class.php","errLine":28} @@@@@@@@
+Begin Time: 2015-01-05 17:49:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-05 19:19:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-05 19:19:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-05 19:19:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-05 19:25:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-05 19:25:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-05 19:25:40
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":391} @@@@@@@@
+Begin Time: 2015-01-05 20:04:59
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/salary\/salaryUpload.php","errLine":151} @@@@@@@@
+Begin Time: 2015-01-05 20:04:59

@@ -1,0 +1,175 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-09 09:40:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-09 15:37:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/form\/EmployForm.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":2} @@@@@@@@
+Begin Time: 2015-01-09 15:40:10
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:42:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:42:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:42:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:42:12
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:42:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:42:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:42:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:42:33
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:43:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:43:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:43:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:43:38
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:45:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:45:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:45:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:45:50
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:46:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:46:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:46:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:46:41
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:47:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:47:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:47:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 15:47:01
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:47:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:47:23
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:48:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":89} @@@@@@@@
+Begin Time: 2015-01-09 15:48:29
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:49:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":90} @@@@@@@@
+Begin Time: 2015-01-09 15:49:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:49:01
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 40,10 @@@@@@@@
+Begin Time: 2015-01-09 15:49:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":90} @@@@@@@@
+Begin Time: 2015-01-09 15:49:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:49:11
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:49:13
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":90} @@@@@@@@
+Begin Time: 2015-01-09 15:49:13
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:49:13
+**************sql_msg**************
+@@@@@@@@ select * from OA_employ where 1=1 order by update_time desc limit 0,10 @@@@@@@@
+Begin Time: 2015-01-09 15:49:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":90} @@@@@@@@
+Begin Time: 2015-01-09 15:49:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:49:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:51:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:51:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/employ\/employList.php","errLine":107} @@@@@@@@
+Begin Time: 2015-01-09 15:52:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 17:46:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 17:46:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-01-09 17:46:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:46:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:46:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:48:19
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:54:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:54:01
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:54:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2015-01-09 17:54:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 17:54:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-01-09 17:54:11

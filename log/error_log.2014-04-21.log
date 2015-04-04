@@ -1,0 +1,31 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-04-21 11:07:28
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2014-04-21 11:07:28
+**************sql_msg**************
+@@@@@@@@ update OA_admin  set last_login_time=now()  where id= @@@@@@@@
+Begin Time: 2014-04-21 11:07:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(ROOT\/common\/tpl\/left.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\admin_list.php","errLine":52} @@@@@@@@
+Begin Time: 2014-04-21 11:07:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'ROOT\/common\/tpl\/left.php' for inclusion (include_path='.;C:\\xampp\\php\\pear\\')","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\admin_list.php","errLine":52} @@@@@@@@
+Begin Time: 2014-04-21 11:07:57
+**************sql_msg**************
+@@@@@@@@ select *  from OA_company where  id= @@@@@@@@
+Begin Time: 2014-04-21 11:08:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\employ_import.php","errLine":67} @@@@@@@@
+Begin Time: 2014-04-21 11:08:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\employ_import.php","errLine":86} @@@@@@@@
+Begin Time: 2014-04-21 11:08:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(ROOT\/common\/tpl\/left.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\log_list.php","errLine":64} @@@@@@@@
+Begin Time: 2014-04-21 11:08:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'ROOT\/common\/tpl\/left.php' for inclusion (include_path='.;C:\\xampp\\php\\pear\\')","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\log_list.php","errLine":64} @@@@@@@@
+Begin Time: 2014-04-21 11:08:33

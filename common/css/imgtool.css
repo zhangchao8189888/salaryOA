@@ -1,0 +1,76 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: #eee;
+    font-family: Calibri, sans-serif;
+}
+
+.article h1
+{
+	color: #333;
+	font-size: 2.2em;
+	margin-top: .2em;
+}
+
+.jcropper-holder { border: 1px black solid; }
+
+#outer { text-align: center; }
+
+.jcExample
+{
+	text-align: left;
+	#background: white;
+	width: 90%;
+	font-size: 80%;
+	margin: 1.5em auto 2em auto;
+	#border: 1px #999 solid;
+	padding: 1em 2em 2em;
+}
+
+.jcExample .article { width: 520px; }
+
+form { margin: 1.5em 0; }
+form.coords label { margin-right: 1em; font-weight: bold; color: #900; }
+form.coords input { width: 3em; }
+.viewerM {
+    border: 1px solid #cdcdcd;
+    display: inline-block;
+    float: left;
+    height: 480px;
+    padding: 10px;
+    position: relative;
+    width: 480px;
+}
+.viewerR {
+    display: inline-block;
+    float: left;
+    height: 480px;
+    margin-left: 10px;
+}
+.viewerR .preContainer200 {
+    float: left;
+    margin-right: 10px;
+}
+ .viewerR .preContainer60 {
+    display: inline-block;
+    float: left;
+}
+.px60 {
+    border: 1px solid #cdcdcd;
+    height: 60px;
+    overflow: hidden;
+    width: 60px;
+}
+.px200 {
+    border: 1px solid #cdcdcd;
+    height: 200px;
+    overflow: hidden;
+    width: 200px;
+}
+.px480 {
+    border: 1px solid #cdcdcd;
+    height: 480px;
+    overflow: hidden;
+    width: 480px;
+}

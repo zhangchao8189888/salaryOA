@@ -1,0 +1,172 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":757} @@@@@@@@
+Begin Time: 2015-04-04 10:48:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/EmployAction.class.php","errLine":369} @@@@@@@@
+Begin Time: 2015-04-04 10:48:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":118} @@@@@@@@
+Begin Time: 2015-04-04 10:48:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2015-04-04 10:48:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/BaseDataAction.class.php","errLine":99} @@@@@@@@
+Begin Time: 2015-04-04 10:48:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/BaseDataAction.class.php","errLine":246} @@@@@@@@
+Begin Time: 2015-04-04 10:48:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":118} @@@@@@@@
+Begin Time: 2015-04-04 10:48:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:48:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/Applications\/XAMPP\/xamppfiles\/lib\/php:\/Applications\/XAMPP\/xamppfiles\/lib\/php\/pear')","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:48:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/dao\/AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/Applications\/XAMPP\/xamppfiles\/lib\/php:\/Applications\/XAMPP\/xamppfiles\/lib\/php\/pear')","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:48:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/module\/dao\/AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect<\/a>]: Access denied for user 'root'@'localhost' (using password: YES)","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":15} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":16} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/lib\/db.inc","errLine":17} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/Applications\/XAMPP\/xamppfiles\/lib\/php:\/Applications\/XAMPP\/xamppfiles\/lib\/php\/pear')","errFile":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2015-04-04 10:50:23

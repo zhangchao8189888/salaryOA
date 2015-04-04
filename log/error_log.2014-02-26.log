@@ -1,0 +1,730 @@
+
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:30:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:30:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:30:36
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:36
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:30:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:30:38
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:30:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:30:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:30:52
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:30:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:30:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:30:54
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:14
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:16
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:16
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:23
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:25
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:27
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:29
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:31
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:33
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:33
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:35
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:38
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:40
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:40
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:42
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:42
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:44
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:44
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:46
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:46
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:48
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:48
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:50
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:52
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:54
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:56
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:56
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:31:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:31:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:31:58
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:31:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:00
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:32:02
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:04
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:32:06
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:08
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:08
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:32:10
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:10
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:32:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:32:12
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:32:12
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:33:09
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:33:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:33:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:33:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:33:11
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:33:11
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): ","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:33:13
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:33:13
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:33:13
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:34:31
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:35:14
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:35:32
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:36:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:36:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:36:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:36:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:36:05
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:37:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:37:14
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:37:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:37:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:37:38
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:37:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:37:50
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:37:52
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:40:55
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:49:24
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":19} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":19} @@@@@@@@
+Begin Time: 2014-02-26 11:56:04
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":19} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_connect(): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":19} @@@@@@@@
+Begin Time: 2014-02-26 11:56:05
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysqli_connect(): (HY000\/2000): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\dao\\AdminDao.class.php","errLine":26} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysqli_connect(): (HY000\/2000): mysqlnd cannot connect to MySQL 4.1+ using the old insecure authentication. Please use an administration tool to reset your password with the command SET PASSWORD = PASSWORD('your_existing_password'). This will store a new, and more secure, hash value in mysql.user. If this user is used in other scripts executed by PHP 5.2 or earlier you might need to remove the old-passwords flag from your my.cnf file","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":16} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_query() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":17} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_select_db() expects parameter 2 to be resource, boolean given","errFile":"C:\\xampp\\htdocs\\ProjectOA\\lib\\db.inc","errLine":18} @@@@@@@@
+Begin Time: 2014-02-26 11:58:50

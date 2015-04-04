@@ -1,0 +1,148 @@
+.clear,.nk_clear{zoom:1}
+.clear:after,.nk_clear:after{content:".";display:block;visibility:hidden;height:0;clear:both;}
+ul li{list-style: none;}
+.column ul{margin:0px}
+.column ul li{list-style: none; -moz-border-bottom-colors: none;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #62C462;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+display: inline;margin:0 5px;}
+.column ul li a{color:#fff;}
+.row-fluid1{background:url('') no-repeat;padding: 15px !important; }
+.row-fluid1 .add-on{padding:0px 5px 0px!important;color: #666;}
+.row-fluid1 .icon-calendar{vertical-align: top !important}
+.condition{display: inline-block;padding: 10px 0;color: beige;}
+.row-fluid .span1{width:100px}
+.row-fluid .span2{width:200px}
+.condition .control-label,.condition label{width:auto;padding:0px;float:none;display: inline;margin-right:5px;font-size: 12px;}
+.condition .control-label input{vertical-align: middle;}
+.condition .btn-success{margin-left:10px;}
+.condition .span11{width:100px !important;}
+.condition .select2-container{width:120px;float:none;margin:-3px 0 0;}
+#sid label{display:inline;margin-right:5px;}
+#sid input[type="radio"], #sid input[type="checkbox"]{margin:0px;}
+/*图片预览*/
+#layer_tag {
+    padding-bottom: 5px;
+    margin:20px;
+    position:relative;
+}
+#layer_tag .layer_tag_inner {
+    padding: 30px 10px 0 50px;
+    text-align:center;
+}
+.layer_tag_l {
+	display:inline-block;
+	*display:inline;
+	*zoom:1;
+}
+
+#layer_tag .tag_close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+#layer_tag .prev, #layer_tag .next {
+    background: url("../img/pic_20.gif") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    height: 100px;
+    position: absolute;
+    top: 200px;
+    width: 32px;
+}
+#layer_tag .prev {
+    left: 0;
+}
+#layer_tag .next {
+    background-position: -32px 0;
+    right: 0;
+}
+.layer_tag_r {
+    display:inline-block;
+	*display:inline;
+	*zoom:1;
+    margin-left: 30px;
+    width: 345px;
+    vertical-align:top;
+}
+.layer_tag_r .ul_wapper {
+    overflow-y: auto;
+}
+.layer_tag_r ul {
+    margin-bottom: 18px;
+}
+.layer_tag_r ul li {
+    background-color: #606263;
+    color: #FFFFFF;
+    cursor: pointer;
+    float: left;
+    font-size: 12px;
+    margin: 0 2px 2px 0;
+    padding: 4px 13px;
+}
+#tag_submit_btn{width:180px;margin:10px auto;}
+/*图片打标签*/
+.tag_div_wapper{position:relative;}
+.tag_div_wapper .tag_ul_wapper {position: absolute;right: 0;top: 0;}
+.tag_div_wapper .tag_ul_wapper li {
+    background-color: #808080;
+    color: #FFFFFF;
+    height: 20px;
+    margin-bottom: 1px;
+    padding: 0 4px;
+}
+.layer_tag_r ul li.active {
+    background-color: #FF0000;
+}
+.case_list{display:none;}
+.modal-body1 {
+position: relative;
+padding: 15px;
+height:600px;
+overflow-y: auto;
+background:ghostwhite;
+}
+#CasesPics_attr_color label{display:inline;vertical-align:middle;}
+/*树形结构*/
+.tree_l{float:left;width:280px;padding:20px;}
+.search_r{margin:20px 0 0 320px;width:50;padding:20px;border-left:1px solid #cdcdcd;}
+.search{margin:auto;width:300px;}
+.search input[type=text]{margin:0px;}
+.search_list{margin-top:20px;}
+.contextMenu li{padding:0 10px !important;}
+.zTreeDemoBackground  .line{height:auto;}
+div#rMenu {position:absolute; visibility:hidden; top:0; background-color: #555;text-align: left;}
+div#rMenu ul li{
+    margin: 1px 0;
+    padding: 0 5px;
+    cursor: pointer;
+    list-style: none outside none;
+    background-color: #DFDFDF;
+}
+#rMenu ul{margin:0px;padding:0px;}
+.modal_list{width:300px;margin:auto;}
+.employ_list{width:500px;margin:auto;}
+.modal_list span{width:55px;height:33px;vertical-align: middle;display: inline-block;*display:inline;*zoom:1;}
+.modal_list input{vertical-align: middle;}
+.modal_btn{text-align: center;margin:20px 0;}
+.ztree li{margin-top:5px !important;} 
+.modal_btn input{margin:0 5px;}
+.modal_btn .close{float:none;opacity:1;font-weight: normal;}
+
+.label-info{
+background-color: #41BEDD;
+}
+.nobold{font-weight: normal;}
+.badge_success{color:#468847;}
+.badge_warning{color:#f89406;}
+.badge_danger{color:#999;}
+.badge_inverse{color:#333;}

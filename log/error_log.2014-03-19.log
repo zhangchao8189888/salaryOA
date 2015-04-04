@@ -1,0 +1,85 @@
+
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-19 12:50:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 12:50:39
+**************sql_msg**************
+@@@@@@@@ update OA_bill  set bill_item='审批发放' , bill_value= where id=6550  @@@@@@@@
+Begin Time: 2014-03-19 12:52:02
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\finance\\shenPiFafang.php","errLine":85} @@@@@@@@
+Begin Time: 2014-03-19 12:53:49
+**************sql_msg**************
+@@@@@@@@  select oac.*,oc.company_name  from OA_admin_company oac ,OA_company oc where oac.companyId=oc.id and oac.adminId=  @@@@@@@@
+Begin Time: 2014-03-19 13:02:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Cannot use a scalar value as an array","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtServiceAction.class.php","errLine":143} @@@@@@@@
+Begin Time: 2014-03-19 13:02:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(tpl\/index.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\common\\BaseAction.class.php","errLine":37} @@@@@@@@
+Begin Time: 2014-03-19 15:58:58
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(tpl\/index.php) [<a href='function.require-once'>function.require-once<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\common\\BaseAction.class.php","errLine":37} @@@@@@@@
+Begin Time: 2014-03-19 16:02:31
+**************sql_msg**************
+@@@@@@@@ UPDATE OA_employ  SET e_hetong_date=2014-01-02,e_hetongnian=2 where id=$19610 @@@@@@@@
+Begin Time: 2014-03-19 16:31:23
+**********error_msg**********
+@@@@@@@@ EC::updateContractInfo(): add business faild  @@@@@@@@
+Begin Time: 2014-03-19 16:31:23

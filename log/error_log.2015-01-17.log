@@ -1,0 +1,151 @@
+
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:20:50
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('',1,4728,
+        100000,2000,,'{"zhipiaojin":null,"piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:20:50
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:23:25
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('',1,4728,
+        100000,2000,1,'{"zhipiaojin":null,"piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:23:25
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:24:45
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('PN201501170006',1,4728,
+        100000,2000,1,'{"zhipiaojin":"10000","piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:24:45
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:25:39
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('PN201501170006',1,4728,
+        100000,2000,1,'{"zhipiaojin":"10000","piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:25:39
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:26:13
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('PN201501170006',1,4728,
+        100000,2000,1,'{"zhipiaojin":"10000","piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:26:13
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:27:26
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:28:04
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:29:14
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:29:34
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":701} @@@@@@@@
+Begin Time: 2015-01-17 17:30:21
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:32:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"move_uploaded_file(shoukuanfile2015-01-16.xls): failed to open stream: Permission denied","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":802} @@@@@@@@
+Begin Time: 2015-01-17 17:32:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"move_uploaded_file(): Unable to move '\/tmp\/phpyoqx4i' to 'shoukuanfile2015-01-16.xls'","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":802} @@@@@@@@
+Begin Time: 2015-01-17 17:32:18
+**********error_msg**********
+@@@@@@@@ upload/ is a disable dir @@@@@@@@
+Begin Time: 2015-01-17 17:32:18
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:33:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"move_uploaded_file(shoukuanfile2015-01-16.xls): failed to open stream: Permission denied","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":802} @@@@@@@@
+Begin Time: 2015-01-17 17:33:34
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"move_uploaded_file(): Unable to move '\/tmp\/phpBZ3oY3' to 'shoukuanfile2015-01-16.xls'","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":802} @@@@@@@@
+Begin Time: 2015-01-17 17:33:34
+**********error_msg**********
+@@@@@@@@ shoukuanfile2015-01-16.xls is a disable dir @@@@@@@@
+Begin Time: 2015-01-17 17:33:34
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:33:57
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:35:25
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('PN201501170006',1,4728,
+        100000,2000,1,'{"zhipiaojin":"10000","piao_no":null}',
+        '张超',
+        1,now(),now(),0,'',''
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:35:25
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:37:25
+**************sql_msg**************
+@@@@@@@@ insert into OA_fukuantongzhi
+        (shou_code,company_id,salaryTime_id,shoukuanjin,
+        laowufei,pay_type,piao_json,shoukuan_person_name,
+        op_id,add_time,update_time,
+        shou_status,more,file_path)
+        values ('PN201501170006',1,4728,
+        100000,2000,1,'{"zhipiaojin":"10000","piao_no":null}',
+        '张超',
+        1,now(),now(),0,'','2015-01-16.xls'
+        ) @@@@@@@@
+Begin Time: 2015-01-17 17:37:25
+**********error**********
+@@@@@@@@ {"errNo":8192,"errStr":"Function split() is deprecated","errFile":"\/var\/www\/zhongqiOA\/module\/action\/SalaryAction.class.php","errLine":761} @@@@@@@@
+Begin Time: 2015-01-17 17:39:03

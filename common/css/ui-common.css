@@ -1,0 +1,25 @@
+.search_suggest{margin-left: 185px;}
+/* mailBox */
+.gover_search_key{
+    border: 1px solid #0591aa;
+    font-family: "Microsoft Yahei",Tahoma,Arial;
+    height: 40px;
+    line-height: 50px;
+    outline: 0 none;
+    width: 100%;
+
+}
+
+.search_suggest{background:#fff;border:1px solid #ddd;padding:3px 5px 0px;position:absolute;z-index:9999;display:none;-webkit-box-shadow:0px 2px 7px rgba(0, 0, 0, 0.35);-moz-box-shadow:0px 2px 7px rgba(0, 0, 0, 0.35);}
+.search_suggest p{width:100%;margin:0;padding:0;height:20px;line-height:20px;clear:both;font-size:12px;color:#ccc;cursor:default;}
+.search_suggest ul{padding:0;margin:0;}
+.search_suggest li{font-size:12px;height:22px;line-height:22px;color:#939393;font-family:'Tahoma';list-style:none;cursor:pointer;overflow:hidden;}
+.search_suggest .cmail{color:#000;background:#e8f4fc;}
+.search_ul{
+    position: relative;
+    overflow: auto;
+    height: 150px;
+}
+.pointer{
+    cursor:pointer
+}

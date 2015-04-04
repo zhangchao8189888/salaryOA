@@ -1,0 +1,7 @@
+
+**************sql_msg**************
+@@@@@@@@ select * from OA_account where 1=1 and companyId = Array ['companyId'] and accountsType = '1'  @@@@@@@@
+Begin Time: 2014-05-04 17:22:55
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array(): supplied argument is not a valid MySQL result resource","errFile":"C:\\xampp\\htdocs\\ProjectOA\\module\\action\\ExtSalaryAction.class.php","errLine":1089} @@@@@@@@
+Begin Time: 2014-05-04 17:22:55

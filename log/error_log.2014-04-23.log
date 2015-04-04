@@ -1,0 +1,7 @@
+
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(ROOT\/common\/tpl\/left.php) [<a href='function.include'>function.include<\/a>]: failed to open stream: No such file or directory","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\admin_list.php","errLine":52} @@@@@@@@
+Begin Time: 2014-04-23 11:51:27
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include() [<a href='function.include'>function.include<\/a>]: Failed opening 'ROOT\/common\/tpl\/left.php' for inclusion (include_path='.;C:\\xampp\\php\\pear\\')","errFile":"C:\\xampp\\htdocs\\ProjectOA\\tpl\\admin_list.php","errLine":52} @@@@@@@@
+Begin Time: 2014-04-23 11:51:27

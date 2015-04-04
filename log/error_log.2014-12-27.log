@@ -1,0 +1,312 @@
+
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-27 00:16:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:16:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:16:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-27 00:16:43
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-27 00:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-27 00:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-27 00:16:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-27 00:17:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-27 00:17:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-27 00:17:20
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":75} @@@@@@@@
+Begin Time: 2014-12-27 00:17:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":158} @@@@@@@@
+Begin Time: 2014-12-27 00:17:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":167} @@@@@@@@
+Begin Time: 2014-12-27 00:17:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":87} @@@@@@@@
+Begin Time: 2014-12-27 00:18:28
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":87} @@@@@@@@
+Begin Time: 2014-12-27 00:18:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:18:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:18:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":87} @@@@@@@@
+Begin Time: 2014-12-27 00:18:47
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:18:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:18:50
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-27 00:19:13
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-27 00:19:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-27 00:19:41
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/dao\/CompanyDao.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":3} @@@@@@@@
+Begin Time: 2014-12-27 00:21:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":87} @@@@@@@@
+Begin Time: 2014-12-27 00:21:49
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"str_pad() expects parameter 1 to be string, array given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":77} @@@@@@@@
+Begin Time: 2014-12-27 00:21:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:21:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 00:21:52
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":87} @@@@@@@@
+Begin Time: 2014-12-27 00:22:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"str_pad() expects parameter 1 to be string, array given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":77} @@@@@@@@
+Begin Time: 2014-12-27 00:22:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"str_pad() expects parameter 1 to be string, array given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":77} @@@@@@@@
+Begin Time: 2014-12-27 00:23:06
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 00:24:30
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"str_pad() expects parameter 1 to be string, array given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":77} @@@@@@@@
+Begin Time: 2014-12-27 00:24:32
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"require_once(module\/action\/CustomerAction.class.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/index.php","errLine":23} @@@@@@@@
+Begin Time: 2014-12-27 01:03:29
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:04:00
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:05:04
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:05:57
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:06:15
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:06:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:06:24
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:07:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:07:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:13:55
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('','','','',
+		 '','',
+		,,1) @@@@@@@@
+Begin Time: 2014-12-27 01:14:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 01:14:38
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 01:14:38
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('','','','',
+		 '','',
+		,,1) @@@@@@@@
+Begin Time: 2014-12-27 01:15:35
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:16:18
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:17:55
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('','','','',
+		 '','',
+		,,1) @@@@@@@@
+Begin Time: 2014-12-27 01:17:55
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('QY201412270001','','','',
+		 '','7777',
+		,,1) @@@@@@@@
+Begin Time: 2014-12-27 01:18:25
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:21:11
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('QY201412270001','海淀分局','吴雪松','15810438122',
+		 '海淀区人民军队大院102号','12123111111111',
+		1,1,1) @@@@@@@@
+Begin Time: 2014-12-27 01:24:49
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		)
+		 values ('QY201412270001','海淀分局','吴雪松','15810438122',
+		 '海淀区人民军队大院102号','12123111111111',
+		1,1,1) @@@@@@@@
+Begin Time: 2014-12-27 01:25:21
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"Invalid argument supplied for foreach()","errFile":"\/var\/www\/zhongqiOA\/tpl\/company\/company_list.php","errLine":86} @@@@@@@@
+Begin Time: 2014-12-27 01:26:59
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from or_company where 1=1  @@@@@@@@
+Begin Time: 2014-12-27 01:58:46
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from or_company where 1=1  @@@@@@@@
+Begin Time: 2014-12-27 02:00:04
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from oa_company where 1=1  @@@@@@@@
+Begin Time: 2014-12-27 02:01:08
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from oa_company where 1=1  @@@@@@@@
+Begin Time: 2014-12-27 02:01:12
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from oa_company where 1=1  @@@@@@@@
+Begin Time: 2014-12-27 02:01:34
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		add_time,update_time
+		)
+		 values ('QY201412270002','测试公司','吴雪松','15810438122',
+		 '海淀区人民军队大院102号','招商银行','11111',
+		2,2,1,now(),now()) @@@@@@@@
+Begin Time: 2014-12-27 02:04:10
+**************sql_msg**************
+@@@@@@@@ insert into OA_company
+		(
+		company_code,company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type,company_status
+		add_time,update_time
+		)
+		 values ('QY201412270002','测试公司','吴雪松','15810438122',
+		 '海淀区人民军队大院102号','招商银行','12123111111111',
+		1,1,1,now(),now()) @@@@@@@@
+Begin Time: 2014-12-27 02:05:51
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from OA_company where 1=1  and company_name =海淀分局 @@@@@@@@
+Begin Time: 2014-12-27 02:10:31
+**************sql_msg**************
+@@@@@@@@ select * from OA_company where 1=1 and company_name =海淀分局 order by update_time desc limit 0,5 @@@@@@@@
+Begin Time: 2014-12-27 02:10:31
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":97} @@@@@@@@
+Begin Time: 2014-12-27 02:10:31
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from OA_company where 1=1  and company_name =海淀分局 @@@@@@@@
+Begin Time: 2014-12-27 02:10:45
+**************sql_msg**************
+@@@@@@@@ select * from OA_company where 1=1 and company_name =海淀分局 order by update_time desc limit 0,5 @@@@@@@@
+Begin Time: 2014-12-27 02:10:45
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":97} @@@@@@@@
+Begin Time: 2014-12-27 02:10:45
+**************sql_msg**************
+@@@@@@@@ select count(*) as cnt from OA_company where 1=1  and company_name =海淀分局 @@@@@@@@
+Begin Time: 2014-12-27 02:11:22
+**************sql_msg**************
+@@@@@@@@ select * from OA_company where 1=1 and company_name =海淀分局 order by update_time desc limit 0,5 @@@@@@@@
+Begin Time: 2014-12-27 02:11:22
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, boolean given","errFile":"\/var\/www\/zhongqiOA\/module\/action\/CompanyAction.class.php","errLine":97} @@@@@@@@
+Begin Time: 2014-12-27 02:11:22
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-27 10:37:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 10:37:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 10:37:54
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-27 10:37:54
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-27 11:29:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 11:29:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 11:29:37
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-27 11:29:37
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-27 11:34:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 11:34:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 11:34:17
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-27 11:34:17
+**************sql_msg**************
+@@@@@@@@ update or_admin  set last_login_time=now()  where id=1 @@@@@@@@
+Begin Time: 2014-12-27 14:03:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(tpl\/BaseConfig.php): failed to open stream: No such file or directory","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 14:03:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"include(): Failed opening 'tpl\/BaseConfig.php' for inclusion (include_path='.:\/usr\/share\/php:\/usr\/share\/pear')","errFile":"\/var\/www\/zhongqiOA\/tpl\/common\/main.php","errLine":13} @@@@@@@@
+Begin Time: 2014-12-27 14:03:14
+**********error**********
+@@@@@@@@ {"errNo":2,"errStr":"mysql_fetch_array() expects parameter 1 to be resource, null given","errFile":"\/var\/www\/zhongqiOA\/tpl\/site_index.php","errLine":57} @@@@@@@@
+Begin Time: 2014-12-27 14:03:14
