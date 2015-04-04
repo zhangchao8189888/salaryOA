@@ -21,9 +21,11 @@ class AdminDao extends BaseDao
 		return $result;
     }
     function checklogin($name,$pass){
-    	$sql="select *  from  OA_admin  where  name='{$name}' and password='{$pass}'";
-		$result=$this->g_db_query($sql);
-		return mysql_fetch_array($result);
+        $sql="select *  from  OA_user  where  name='{$name}' and password='{$pass}'";
+        //echo($sql);
+        //exit;
+        $result=$this->g_db_query($sql);
+        return mysql_fetch_array($result);
     }
     /**
      * 添加管理员

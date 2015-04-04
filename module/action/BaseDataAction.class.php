@@ -240,7 +240,70 @@ class BaseDataAction extends BaseAction {
         echo json_encode($department);
         exit;
     }
-    function getDepartmentTreeJson() {
+    function getDepartmentTreeJson () {
+        $user = $_SESSION ['admin'];
+        $company_id = $user['user_id'];
+        $id = $_POST['id'];
+        $this->objDao = new BaseDataDao();
+        $treeJson =array();
+        if(empty($id)) {
+            $company = $this->objDao->getCompanyById($company_id);
+            $companyId = $company_id;
+            $companyPo = $this->objDao->getCompanyRootIdByCompanyId($companyId);
+            if ($companyPo) {
+                $treeJson['data']['id'] = $companyPo['id'];
+                $treeJson['data']['name'] = $companyPo['name'];
+                $treeJson['data']['pid'] = $companyPo['pid'];
+                $treeJson['data']['company_id'] = $companyId;
+                $count = $this->objDao->isParentNode($companyId,$companyPo['id']);
+                if ($count['cnt'] > 0) {
+                    $treeJson['data']['isParent'] = 'true';
+                } else {
+                    $treeJson['data']['isParent'] = 'false';
+                }
+                $treeJson['data']['isParent'] = 'true';
+            } else{
+                $treeJson['data']['company_id'] = $companyId;
+                $treeJson['data']['name'] = $company['company_name'];
+                $treeJson['data']['pid'] = 0;
+                $treeJson['data']['isParent'] = 'true';
+                $data = $treeJson['data'];
+                $result = $this->objDao->addDepartmentTreeData($data);
+                $last_id = $this->objDao->g_db_last_insert_id();
+                $treeJson['data']['id'] = $last_id;
+
+            }
+        } else {
+            //找到树节点
+
+            $treeNode = $this->objDao->getTreeNodeDataById($id);
+            if ($treeNode) {
+                $result = $this->objDao->getChildNodeDataByPid($treeNode['id']);
+                $i = 0;
+                while($row = mysql_fetch_array($result)) {
+                    $treeJson['data'][$i]['id'] = $row['id'];
+                    $treeJson['data'][$i]['name'] = $row['name'];
+                    $treeJson['data'][$i]['pid'] = $row['pid'];
+                    $treeJson['data'][$i]['employ_id'] = $row['employ_id'];
+                    $treeJson['data'][$i]['is_employ'] = $row['is_employ'];
+                    $count = $this->objDao->isParentNode($row['id']);
+                    if ($count['cnt'] > 0) {
+                        $treeJson['data'][$i]['isParent'] = 'true';
+                    } else {
+                        $treeJson['data'][$i]['isParent'] = 'false';
+                    }
+                    $i++;
+                }
+            } else {
+                echo '{}';
+                exit;
+            }
+
+        }
+        echo json_encode($treeJson);
+        exit;
+    }
+    function getDepartmentTreeJsonbak() {
        $company_id = $_REQUEST['comapny_id'];
 //        $companyName ="测试单位";
         $id = $_POST['id'];

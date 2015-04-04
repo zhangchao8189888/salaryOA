@@ -26,7 +26,7 @@ $error=$form_data['login_error'];
             <div class="controls">
                 <div class="main_input_box">
                     <span class="add-on bg_lg"><i class="icon-user"></i></span><input type="text" name="usrname" placeholder="用户名" />
-                    <input type="hidden" name="login_mode" value="employ" />
+                    <input type="hidden" name="login_mode" value="company" />
                 </div>
             </div>
         </div>
