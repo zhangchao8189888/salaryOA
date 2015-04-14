@@ -165,6 +165,11 @@ class BaseDao extends db {
         $result = $this->g_db_query ( $sql );
         return mysql_fetch_array ( $result );
     }
+    function searchLastSalaryTimeByCompanyId ($comId) {
+        $sql = "select *  from OA_salarytime  where companyId=$comId order by salaryTime  desc limit 1";
+        $result = $this->g_db_query ( $sql );
+        return mysql_fetch_array ( $result );
+    }
     function searchByComIdAndSalTime($comId, $salTime) {
         $sql = "SELECT *  FROM OA_salarytime  WHERE companyId=$comId AND salaryTime LIKE '%$salTime%'";
         $result = $this->g_db_query ( $sql );

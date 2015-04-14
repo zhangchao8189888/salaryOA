@@ -29,7 +29,7 @@ class BaseDataForm extends BaseForm
             case "toDepartmentEdit" :
                 return "baseData/departmentEdit.php";
             case "toSetSalZiduan" :
-                return "baseData/setSalZiduan.php";
+                return "baseData/salZiduanList.php";
             default :
                 return "BaseConfig.php";
         }

@@ -84,6 +84,15 @@ class BaseDataAction extends BaseAction {
             case "toSetSalZiduan" :
                 $this->toSetSalZiduan();
                 break;
+            case "getZiduanByIdJson" :
+                $this->getZiduanByIdJson();
+                break;
+            case "addZiduan" :
+                $this->addZiduan();
+                break;
+            case "delZiduan" :
+                $this->delZiduan();
+                break;
             default :
                 $this->modelInput();
                 break;
@@ -97,6 +106,84 @@ class BaseDataAction extends BaseAction {
     }
     function toSetSalZiduan () {
         $this->mode = "toSetSalZiduan";
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $departId = $_REQUEST['id'];
+        $this->objDao = new BaseDataDao();
+        $result = $this->objDao->getZiduanListByComId($companyId,$departId);
+        $data = array();
+        global $ziduanTupe;
+        while($row = mysql_fetch_array($result)) {
+            $ziduan = array();
+            $ziduan['id'] =  $row['id'];
+            $ziduan['zd_name'] =  $row['zd_name'];
+            $ziduan['department_id'] =  $row['department_id'];
+            $ziduan['company_id'] =  $row['company_id'];
+            $ziduan['zd_type'] =  $ziduanTupe[$row['zd_type']];
+            $data[] = $ziduan;
+        }
+        $this->objForm->setFormData("ziduanList",$data);
+    }
+    function delZiduan () {
+        $id = $_REQUEST['zid'];
+        $this->objDao = new BaseDataDao();
+        $result = $this->objDao->delSalZiduan($id);
+        if ($result) {
+            $data['code'] = 100000;
+        } else {
+            $data['code'] = 100001;
+            $data['mess'] = '删除失败，请重试';
+        }
+        echo json_encode($data);
+        exit;
+    }
+    function addZiduan (){
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $zd = array();
+        $zd['zd_name'] = $_REQUEST['zd_name'];
+        $zd['zd_type'] = $_REQUEST['zd_type'];
+        $zd['department_id'] = 0;
+        $zd['company_id'] = $companyId;
+
+        $this->objDao = new BaseDataDao();
+        $ziduan = $this->objDao->getZiduanListByName($zd['zd_name'],$companyId);
+        if ($ziduan) {
+            $data['code'] = 100001;
+            $data['mess'] = '该字段名称已经存在';
+        }else {
+            $result = $this->objDao->addSalZiduan($zd);
+            if ($result) {
+                $data['code'] = 100000;
+                $data['mess'] = $this->objDao->g_db_last_insert_id();
+            } else {
+                $data['code'] = 100001;
+                $data['mess'] = '添加失败，请重试';
+            }
+        }
+
+        echo json_encode($data);
+        exit;
+    }
+    function getZiduanByIdJson () {
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $departId = $_REQUEST['id'];
+        $this->objDao = new BaseDataDao();
+        $result = $this->objDao->getZiduanListByComAndDepartmentId($companyId,$departId);
+        $data = array();
+        global $ziduanTupe;
+        while($row = mysql_fetch_array($result)) {
+            $ziduan = array();
+            $ziduan['id'] =  $row['id'];
+            $ziduan['zd_name'] =  $row['zd_name'];
+            $ziduan['department_id'] =  $row['department_id'];
+            $ziduan['company_id'] =  $row['company_id'];
+            $ziduan['zd_type'] =  $ziduanTupe[$row['zd_type']];
+            $data[] = $ziduan;
+        }
+        echo json_encode($data);
+        exit;
     }
     function toShenfenType () {
         $this->mode = "toShenfenType";
@@ -284,8 +371,6 @@ class BaseDataAction extends BaseAction {
                     $treeJson['data'][$i]['id'] = $row['id'];
                     $treeJson['data'][$i]['name'] = $row['name'];
                     $treeJson['data'][$i]['pid'] = $row['pid'];
-                    $treeJson['data'][$i]['employ_id'] = $row['employ_id'];
-                    $treeJson['data'][$i]['is_employ'] = $row['is_employ'];
                     $count = $this->objDao->isParentNode($row['id']);
                     if ($count['cnt'] > 0) {
                         $treeJson['data'][$i]['isParent'] = 'true';

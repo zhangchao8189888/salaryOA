@@ -63,7 +63,8 @@ $emList=$form_data['emList'];
                                 </div>
                             </div>
                             <div class="form-actions">
-                                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属公司：<input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" /><input type="hidden" value="" id="company_id" name="company_id"/></div> <input type="button" value="导入" class="btn btn-success" id="submitBtn1" >
+
+                                <input type="button" value="导入" class="btn btn-success" id="submitBtn1" >
                                 <div class="search_suggest" id="custor_search_suggest">
                                     <ul class="search_ul">
 

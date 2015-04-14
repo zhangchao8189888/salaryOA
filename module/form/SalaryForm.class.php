@@ -38,6 +38,10 @@ class SalaryForm extends BaseForm
                 return "salary/salary_newAdd.php";
             case "toFukuandanList":
                 return "salary/fukuandan_list.php";
+            case "toMakeSalary":
+                return "salary/autoSalary.php";
+            case "toAutoMakeSalList":
+                return "salary/autoSalary.php";
             default :
                 return "BaseConfig.php";
         }

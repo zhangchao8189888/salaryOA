@@ -1,6 +1,7 @@
 <?php
 require_once("module/form/SalaryForm.class.php");
 require_once("module/dao/SalaryDao.class.php");
+require_once("module/dao/BaseDataDao.class.php");
 require_once("module/dao/EmployDao.class.php");
 require_once("tools/excel_class.php");
 require_once("tools/Classes/PHPExcel.php");
@@ -128,6 +129,18 @@ class SalaryAction extends BaseAction {
             case "fileDel" :
                 $this->fileDel ();
                 break;
+            case "toMakeSalary" :
+                $this->toMakeSalary ();
+                break;
+            case "toAutoMakeSal" :
+                $this->toAutoMakeSal ();
+                break;
+            case "autoMakeSal" :
+                $this->autoMakeSal ();
+                break;
+            case "getSalListJson" :
+                $this->getSalListJson ();
+                break;
 
             default :
                 $this->modelInput();
@@ -139,7 +152,150 @@ class SalaryAction extends BaseAction {
     function modelInput() {
         $this->mode = "toAdd";
     }
+    function toMakeSalary() {
+        $this->mode = "toMakeSalary";
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $this->objDao = new SalaryDao ();
+        $salTime = $this->objDao->searchLastSalaryTimeByCompanyId($companyId);
 
+        $this->objDao = new BaseDataDao();
+        $result = $this->objDao->getZiduanListByComId($companyId);
+        $data = array();
+        global $ziduanTupe;
+        while($row = mysql_fetch_array($result)) {
+            $ziduan = array();
+            $ziduan['id'] =  $row['id'];
+            $ziduan['zd_name'] =  $row['zd_name'];
+            $ziduan['department_id'] =  $row['department_id'];
+            $ziduan['company_id'] =  $row['company_id'];
+            $ziduan['zd_type_name'] =  $ziduanTupe[$row['zd_type']];
+            $ziduan['zd_type'] =  $row['zd_type'];
+            $data[] = $ziduan;
+        }
+        $this->objForm->setFormData("ziduanList",$data);
+        $this->objForm->setFormData("salTime",$salTime);
+    }
+    function toAutoMakeSal () {
+        $this->mode = "toAutoMakeSal";
+
+    }
+    function getSalListJson(){
+        $ziduanIds = $_REQUEST['ziduanIds'];
+        $salaryDate = $_REQUEST['salaryDate'];
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $ziduanIds=substr($ziduanIds,0,-1);
+        $ziduanIdArr = explode(',',$ziduanIds);
+
+        /****查询员工列表*****/
+        $this->objDao = new EmployDao();
+        $empList = $this->objDao->getEmployListByComId($companyId);
+        /****end*****/
+
+        /****查询上个月是否有垫付*****/
+        $salTime = $salaryDate."-01";
+        $lastSalTime =  date("Y-m-01",strtotime("$salTime -1 month"));
+        $lastSalTimePO = $this->objDao->searchSalaryTimeBySalaryTimeAndComId($lastSalTime,$companyId);
+        $dianfu = array();
+        $yanfu = array();
+        if ($lastSalTimePO) {
+            $yandianfu['salTimeId'] = $lastSalTimePO['id'];
+            $yandianfu['yanOrdian_type'] = 2;//延付垫付状态1：延付2：垫付
+            $this->objDao = new SalaryDao();
+            $result = $this->objDao->getDianfuOrYanfuData($yandianfu);
+            while($row = mysql_fetch_array($result)) {
+                if($row['yanOrdian_type'] == 1) {
+                    $yanfu[] = $row;
+                } elseif ($row['yanOrdian_type'] == 2) {//垫付合计
+                    $row['sumVal'] = $row['per_shiye']
+                        +$row['per_yiliao'] +$row['per_yanglao'] +$row['per_gongjijin']
+                        +$row['com_shiye'] +$row['com_yiliao'] +$row['com_yanglao']
+                        +$row['com_gongshang']+$row['com_shengyu']+$row['com_gongjijin'] ;
+                    $dianfu[$row['employ_num']] = $row;
+                }
+            }
+        }
+        /****end*****/
+        $salListJson = array();
+        $salHeadJson = array();
+        $salHeadWithJson = array();
+        $salHeadJson[0] = '姓名';
+        $salHeadWithJson[0]= 100;
+        $salHeadJson[1] = '身份证号';
+        $salHeadWithJson[1]= 200;
+        $i = 2;
+        foreach($ziduanIdArr as $row){
+            $this->objDao = new BaseDataDao();
+            $ziduan = $this->objDao->getZiduanById($row);
+            $salHeadJson[$i] = $ziduan['zd_name'];
+            $salHeadWithJson[$i]= 100;
+            $i++;
+        }
+        $isDianfu = 0;
+        if (count($dianfu) > 0) {
+            $salHeadJson[$i] = '上月补扣社保';
+            $isDianfu = 1;
+
+        }
+        while ($row = mysql_fetch_array($empList)) {
+            $emRow = array();
+            foreach($salHeadJson as $key =>$head ){
+                if ($head == '姓名') {
+                    $emRow[$key] =   $row['e_name'];
+                }elseif ($head == '身份证号') {
+                    $emRow[$key] =   $row['e_num'];
+                }elseif ($head == '上月补扣社保') {
+                    if(!empty($dianfu[$row['e_num']])){
+                        $emRow[$key] = $dianfu[$row['e_num']]['sumVal'];
+                    } else {
+                        $emRow[$key] = '0.00';
+                    }
+
+                }else {
+                    $emRow[$key] =  '0.00';
+                }
+
+            }
+            $salListJson[] = $emRow;
+        }
+        $data['head'] = $salHeadJson;
+        $data['data'] = $salListJson;
+        $data['headWith'] = $salHeadWithJson;
+        $data['isDianfu'] = $isDianfu;
+        echo json_encode($data);
+        exit;
+    }
+    function autoMakeSal(){
+        $this->mode = "toAutoMakeSalList";
+        $department_id = $_REQUEST ['department_id'];
+        $comname = $_REQUEST ['e_company'];
+        $salaryTimeDate = $_POST ['salaryDate']."-01";
+        $ziduanIds = $_POST ['ziduanIds'];
+        $time   =   $this->AssignTabMonth ($salaryTimeDate,0);
+
+        $this->objDao = new BaseDataDao ();
+        // 查询公司信息
+        $company = $this->objDao->getDepartmentsById($department_id);
+        if (! empty ( $company )) {
+
+            $department_id = $company ['id'];
+            // 根据日期查询公司时间
+            $salaryTime = $this->objDao->searchSalTimeByComIdAndSalTime ( $department_id, "{$time["first"]}", "{$time["last"]}", 3 );
+            if (! empty ( $salaryTime ['id'] )) {
+                $this->mode = "toSalaryUpload";
+                $op = new fileoperate();
+                $files = $op->list_filename("upload/", 1);
+                $this->objForm->setFormData("files", $files);
+                $this->objForm->setFormData("error", " $comname 本月已做工资 ,有问题请联系财务！");
+            }
+
+        }
+        $this->objForm->setFormData("comName", $comname);
+        $this->objForm->setFormData("department_id", $department_id);
+        $this->objForm->setFormData("salaryDate", $_POST ['salaryDate']);
+        $this->objForm->setFormData("ziduanIds", $ziduanIds);
+    }
     function fileDel()
     {
         $this->mode = "toSalaryUpload";
@@ -771,25 +927,43 @@ class SalaryAction extends BaseAction {
         $this->objForm->setFormData ( "salaryTimeList", $salaryTimeList );
     }
     function sumSalary() {
+        $ziduans = $_REQUEST['ziduan'];//字段
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
+        $this->objDao = new BaseDataDao();
+        $addArray = array();
+        $delArray = array();
+        foreach($ziduans as $key => $val){
+            if ($val != '上月补扣社保') {
+                $ziduanPO = $this->objDao->getZiduanListByName($val,$companyId);
+                if ($ziduanPO) {
+                    $ziduanPO['sit'] = $key;
+                    if($ziduanPO['zd_type'] == 1) {
+                        $addArray[] = $ziduanPO;
+                    } elseif($ziduanPO['zd_type'] == 2) {
+                        $delArray[] = $ziduanPO;
+                    }
+                }
+            } else {
+
+                $ziduanP['sit'] = $key;
+                $ziduanP['zd_name'] = $val;
+                $addArray[] = $ziduanP;
+            }
+        }
         $dataExcel = $_REQUEST['data'];
-        $shenfenzheng = ($_POST ['shenfenzheng'] - 1);
-        $addArray = $_POST ['add'];
-        $delArray = $_POST ['del'];
+        //身份证字段
+        $shenfenzheng = 1;
+
         if ($_POST ['freeTex']) {
             $freeTex = $_POST ['freeTex'] - 1;
         }
         $shifajian = $_POST ['shifajian'] - 1;
-        $addArray = explode ( "+", $addArray );
-        if (! empty ( $delArray )) {
-            $delArray = explode ( "+", $delArray );
-        } else {
-            $delArray = "";
-        }
+
         session_start ();
-        $salaryList = $_SESSION ['salarylist'];
-        $count_add = count ( $dataExcel [0] );
-        $head = array();
-        $head = $dataExcel [0];
+        $count_add = count ( $ziduans );
+
+        $head = $ziduans;
         // 增加字段1·
         // 个人失业 个人医疗 个人养老 个人合计 单位失业 单位医疗 单位养老 单位工伤 单位生育 单位合计
         // 2011-10-14增加字段 姓名 身份证号 银行卡号 身份类别 社保基数 公积金基数
@@ -831,6 +1005,7 @@ class SalaryAction extends BaseAction {
         // 根据身份证号查询出员工身份类别
         $errorRow = 0;
         global $userType;
+        $move = array();
         for($i = 1; $i < count ( $dataExcel ); $i ++) {
             if($dataExcel [$i] [$shenfenzheng] =='null') {
                 continue;
@@ -852,16 +1027,18 @@ class SalaryAction extends BaseAction {
             $addValue = 0;
             $delValue = 0;
             $f= 0;
-            foreach ( $addArray as $row ) {
-                if (is_numeric ( $dataExcel [$i] [($row - 1)] )) {
 
-                    $move [$i]['add'][$f] ['key'] = urlencode($head [($row - 1)]);
-                    $move [$i]['add'][$f] ['value'] =  $dataExcel [$i] [($row - 1)];
+            foreach ( $addArray as $row ) {
+                if (is_numeric ( $dataExcel [$i] [$row['sit']] )) {
+
+                    $move [$i]['add'][$f] ['key'] = urlencode($row['zd_name']);
+                    $move [$i]['add'][$f] ['value'] =  $dataExcel [$i] [$row['sit']];
                     $f++;
-                    $addValue += $dataExcel [$i] [($row - 1)];
+                    $addValue += $dataExcel [$i] [$row['sit']];
                 } else {
-                    $dataExcel [$i] [($row - 1)] = '无数值';
-                    $error [$errorRow] ["error"] = "第$i 行 第$row 列所加项非数字类型";
+                    $dataExcel [$i] [$row['sit']] = '无数值';
+                    $lie = ($row['sit']+1);
+                    $error [$errorRow] ["error"] = "第$i 行 第$lie 列所加项非数字类型";
                     $errorRow++;
                     continue;
                 }
@@ -870,14 +1047,15 @@ class SalaryAction extends BaseAction {
             $f= 0;
             if (! empty ( $delArray )) {
                 foreach ( $delArray as $row ) {
-                    if (is_numeric ( $dataExcel [$i] [($row - 1)] )) {
-                        $move [$i]['del'][$f] ['key'] = urlencode($head [($row - 1)]);
-                        $move [$i]['del'][$f] ['value'] =  $dataExcel [$i] [($row - 1)];
-                        $delValue += $dataExcel [$i] [($row - 1)];
+                    if (is_numeric ( $dataExcel [$i] [$row['sit']] )) {
+                        $move [$i]['del'][$f] ['key'] = urlencode($row['zd_name']);
+                        $move [$i]['del'][$f] ['value'] =  $dataExcel [$i] [$row['sit']];
+                        $delValue += $dataExcel [$i] [$row['sit']];
                         $f++;
                     } else {
                         $dataExcel [$i] [($row - 1)] = '无数值';
-                        $error [$errorRow] ["error"] = "第$i 行 第$row 列所加项非数字类型";
+                        $lie = ($row['sit']+1);
+                        $error [$errorRow] ["error"] = "第$i 行 第$lie 列所加项非数字类型";
                         $errorRow++;
                         continue;
                     }

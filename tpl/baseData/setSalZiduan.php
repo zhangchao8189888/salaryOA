@@ -10,20 +10,16 @@
         <div class="search-form">
             <div class="row-fluid1">
                 <div class="search">
-                    公司名称：<input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" /><input type="hidden" value="" id="company_id" name="company_id"/>
-                    <input type="submit" value="搜索" name="yt0" class="btn btn-success" id="classify">
+                    字段名称：<input type="text" name="ziduanName"id="ziduanName"/>
+                    <select id="ziduanType" name="ziduanType">
+                        <option value="1">相加项</option>
+                        <option value="2">相减项</option>
+                        </select>
+                    <input type="hidden" value="" id="department_id" name="department_id"/>
+                    <input type="button" value="添加字段" id="addZd" class="btn btn-success" id="classify">
                 </div>
             </div>
         </div>
-        <?php
-        /* @var $this sortController */
-        /* @var $model Sort */
-
-        $this->breadcrumbs=array(
-            '分类',
-        );
-
-        ?>
         <div class="tree_l">
 
 
@@ -47,15 +43,12 @@
                 <table class="table table-bordered table-striped">
                     <thead>
                     <tr>
-                        <th><div>姓名</div></th>
-                        <th><div>单位名称</div></th>
-                        <th><div>身份证号</div></th>
-                        <th><div>身份类别</div></th>
-                        <th><div>合同期限</div></th>
-                        <th><div>合同日期</div></th>
+                        <th><div>字段名称</div></th>
+                        <th><div>字段类别</div></th>
+                        <th><div>操作</div></th>
                     </tr>
                     </thead>
-                    <tbody id ='employBody'>
+                    <tbody id ='ziduanBody'>
 
                     </tbody>
                 </table>
@@ -63,7 +56,7 @@
         </div>
         <link href='common/js/ztree/zTreeStyle/zTreeStyle.css' rel='stylesheet' type='text/css' />
         <script type="text/javascript" src="common/js/ztree/jquery.ztree.core-3.5.js"></script>
-        <script type="text/javascript" src="common/js/ztree/treeLoad.js"></script>
+        <script type="text/javascript" src="common/common-js/addZiduan.js"></script>
 
         <div class="modal-backdrop  in" style="display:none"></div>
         <div data-id="" class="modal hide in" id="modal_create" aria-hidden="false">

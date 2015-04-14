@@ -72,6 +72,11 @@ $userType=array(
     5 => "本市农民工",
 	6 => "外地农民工",
 );
+global $ziduanTupe;
+$ziduanTupe=array(
+    1=> "相加项",
+    2=> "相见项",
+);
 global $memu;
 $memu=array(
     '1' => array(
@@ -136,6 +141,11 @@ $memu=array(
                 'resource'	=> '做工资',
             ),
             '2'	=> array(
+                'action' => 'Salary',
+                'mode' => 'toMakeSalary',
+                'resource'	=> '自动做工资',
+            ),
+            '3'	=> array(
                 'action' => 'Salary',
                 'mode' => 'salarySearchList',
                 'resource'	=> '工资查询',

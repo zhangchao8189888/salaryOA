@@ -8,7 +8,7 @@ $actionPath = $_REQUEST ['action'];
 global $actionPath;
 date_default_timezone_set ( "PRC" );
 $user = $_SESSION ['admin'];
-$loginusername = $usr ['name'];
+$loginusername = $user ['name'];
 
 if (empty ( $user ) && $_REQUEST ['mode'] != "checklogin" && $_GET['mode'] !='fileUpload') {
     $actionrealpath = "tpl/login.php";

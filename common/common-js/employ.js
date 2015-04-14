@@ -5,14 +5,12 @@ $(function(){
     $("#company_validate").validate({
         onsubmit:true,
         submitHandler:function(form){
-            if (!$("#company_id").val()) {
-                alert('请重新选择公司');
-                return;
-            }
+//            if (!$("#company_id").val()) {
+//                alert('请重新选择公司');
+//                return;
+//            }
             var obj = {};
             obj.e_num = $("#e_num").val();
-            obj.e_company = $("#e_company").val();
-            obj.company_id = $("#company_id").val();
             obj.e_name = $("#e_name").val();
             obj.bank_no = $("#bank_no").val();
             obj.e_bank = $("#e_bank").val();
@@ -26,7 +24,11 @@ $(function(){
             obj.danganfei = $("#danganfei").val();
             obj.e_hetongnian = $("#e_hetongnian").val();
             obj.e_hetong_date = $("#e_hetong_date").val();
-            obj.department_id = $("#department").val();
+            var departId = 0;
+            if ($("#department_id").val()) {
+                departId = $("#department_id").val();
+            }
+            obj.department_id = departId;
             obj.memo = $("#memo").val();
             $.ajax(
                 {
@@ -100,7 +102,7 @@ $(function(){
 
 
     });
-    $("#e_company").on("click",function(){
+    $("#department").on("click",function(){
         var input;
         var inputVal;
         var suggestWrap = $('#custor_search_suggest');
@@ -123,24 +125,8 @@ $(function(){
             } else {
                 //Customer.oCustomer.fnGetCustomerInfo(obj);
                 //得到用户信息
-                $("#e_company").val(obj.name);
-                $("#company_id").val(obj.id);
-                $.ajax(
-                    {
-                        type: "get",
-                        url: "index.php?action=BaseData&mode=getDepartmentByComId",
-                        data: {companyId : obj.id},
-                        dataType: "json",
-                        success: function(data){
-                            $("#department").html('');
-                            $("#department").append('<option value="0">无部门</option>');
-                            for(var i = 0; i < data.length; i++) {
-                                $("#department").append('<option value="'+data[i].id+'">'+data[i].name+'</option>');
-                            }
-
-                        }
-                    }
-                );
+                $("#department").val(obj.name);
+                $("#department_id").val(obj.id);
             }
         }
         input = $(this);

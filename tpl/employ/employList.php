@@ -46,13 +46,12 @@ $admin=$_SESSION['admin'];
                         $("#e_hetong_date").val(data.e_hetong_date);
                         $("#e_state").val(data.e_state);
                         $("#memo").val(data.memo)
-                        $("#department").html('');
-                        $("#department").append('<option value="0">无部门</option>');
-                        var departmenList = data.department;
-                        for(var i = 0; i < departmenList.length; i++) {
-                            $("#department").append('<option value="'+departmenList[i].id+'">'+departmenList[i].name+'</option>');
+                        if (data.department_id == 0) {
+                            $("#department").val('无部门');
+                        } else {
+                            $("#department").val(data.department);
                         }
-                        $("#department").val(data.department_id);
+                        $("#department_id").val(data.department_id);
                     }
                 }
             );
@@ -112,11 +111,11 @@ $admin=$_SESSION['admin'];
                 <div class="controls">
                     <form id="iForm" action="index.php?action=Employ&mode=toEmployList" method="post">
                         <select id="searchType" name="searchType"   onchange="searchByType()" >
-                            <option value="e_company" <?php if ($searchType == 'e_company') echo 'selected'; ?>>企业名称</option>
+<!--                            <option value="e_company" --><?php //if ($searchType == 'e_company') echo 'selected'; ?><!-->企业名称</option>-->
                             <option value="e_num" <?php if ($searchType == 'e_num') echo 'selected'; ?>>身份证号</option>
                             <option value="e_name" <?php if ($searchType == 'e_name') echo 'selected'; ?>>姓名</option>
                         </select>
-                        <input type="text" value="<?php echo $search_name;?>" name="search_name" id="search_name" placeholder="请输入企业名称"/>
+                        <input type="text" value="<?php echo $search_name;?>" name="search_name" id="search_name" placeholder="请输入身份证号"/>
 
                         <input type="submit" value="查询"/>
                         <input type="hidden" value="" id="pro_id"/>
@@ -214,7 +213,7 @@ $admin=$_SESSION['admin'];
         <div class="modal-body">
             <div class="designer_win">
                 <div class="tips"><em style="color: red;padding-right: 10px;">*</em>姓名：<input type="text" maxlength="20" id="e_name"name="e_name"  /><input type="hidden" value="" id="employ_id" name="employ_id"/></div>
-                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属公司：<input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" /><input type="hidden" value="" id="company_id" name="company_id"/></div>
+                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属部门：<input type="text" maxlength="20" id="department"name="department" autocomplete="off" /><input type="hidden" value="" id="department_id" name="department_id"/></div>
                 <div class="tips"><em style="color: red;padding-right: 10px;">*</em>身份证号：<input type="text" maxlength="20" id="e_num"name="e_num"  /></div>
                 <div class="tips">银行卡号：<input type="text" maxlength="20" id="bank_no"  /></div>
                 <div class="tips">开户行：<input type="text" maxlength="20" id="e_bank"  /></div>
@@ -228,9 +227,6 @@ $admin=$_SESSION['admin'];
                     <option value="4">外地农村劳动力</option>
                     <option value="5">本市农民工</option>
                     <option value="6">外地农民工</option>
-                    </select></div>
-                <div class="tips">部门：<select name="department" id="department"/>
-                    <option value="0">无部门</option>
                     </select></div>
                 <div class="tips">员工状态：<select name="e_state" id="e_state"/>
                     <option value="1">正常</option>

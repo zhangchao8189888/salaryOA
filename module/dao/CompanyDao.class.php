@@ -57,6 +57,17 @@ class CompanyDao extends BaseDao
         $result=$this->g_db_query($sql);
         return $result;
     }
+    function getDepartmentAll($where) {
+
+        $sql ="select * from OA_department_tree ";
+
+        if ($where) {
+            $sql.=$where;
+        }
+        $sql.=" order by create_time asc ";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
     function getCompanyById($id) {
         $sql="select * from OA_company where id=$id";
         $result=$this->g_db_query($sql);

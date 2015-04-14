@@ -18,7 +18,14 @@ class SalaryDao extends BaseDao {
         if ($yandianfu['yanOrdian_type']) {
             $sql .= " and oy.yanOrdian_type = {$yandianfu['yanOrdian_type']}";
         }
+        //echo $sql;
         $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function getDianfuOrYanfuData($yandianfu){
+        $sql="select *  from OA_yanOrDian where salary_time_id = {$yandianfu["salTimeId"]} and yanOrdian_type = {$yandianfu["yanOrdian_type"]}";
+        $result=$this->g_db_query($sql);
+        //echo $sql;
         return $result;
     }
     function saveDianfuOrYanfu ($yanDianfu) {

@@ -24,6 +24,11 @@ class EmployDao extends BaseDao
 		$result=$this->g_db_query($sql);
 		return $result;
     }
+    function getEmployListByComId ($comId){
+        $sql="select * from OA_employ where e_company_id = $comId";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
     function getEmployList($where,$startIndex,$pagesize) {
         $sql="select * from OA_employ where 1=1";
         if ($where) {

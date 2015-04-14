@@ -83,16 +83,12 @@ class CompanyAction extends BaseAction {
     }
     function toCompanyList () {
         $this->mode = "toCompanyList";
-        $searchType = $_REQUEST['searchType'];
-        $com_status = $_REQUEST['com_status'];
-        $search_name = $_REQUEST['search_name'];
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
         $this->objDao = new CompanyDao();
-        $where = '';
-        if ($searchType =='name') {
-            $where.= ' and company_name like "%'.$search_name.'%"';
-        } elseif ($searchType =='status') {
-            $where.= ' and company_status ='.$com_status;
-        }
+
+        $where = ' and id ='.$companyId;
+
         $sum =$this->objDao->g_db_count("OA_company","*","1=1 $where");
         $pageSize=PAGE_SIZE;
         $count = intval($_GET['c']);
@@ -132,9 +128,6 @@ class CompanyAction extends BaseAction {
         $this->objForm->setFormData("companyList",$companyList);
         $this->objForm->setFormData("total",$total);
         $this->objForm->setFormData("page",$pages);
-        $this->objForm->setFormData("searchType",$searchType);
-        $this->objForm->setFormData("search_name",$search_name);
-        $this->objForm->setFormData("com_status",$com_status);
 
     }
     function getCode() {
@@ -186,18 +179,25 @@ class CompanyAction extends BaseAction {
         exit;
     }
     function getCompanyListJson () {
-        $this->objDao = new CompanyDao();
+
         $type=$_REQUEST['type'];
         $keyword=$_REQUEST['keyword'];
-        $where = ' where 1=1 ';
+        $user = $_SESSION ['admin'];
+        $company_id = $user['user_id'];
+        $this->objDao = new BaseDataDao();
+        $companyPo = $this->objDao->getCompanyRootIdByCompanyId($company_id);
+        $this->objDao = new CompanyDao();
+        $where = ' where 1=1 and pid='.$companyPo['id'];
         if ($type != 'all'){
-            $where.="and company_name like '%{$keyword}%'";
+            $where.="and name like '%{$keyword}%'";
         }
-        $result = $this->objDao->getCompanyListAll($where);
+        //$result = $this->objDao->getCompanyListAll($where);
+
+        $result = $this->objDao->getDepartmentAll($where);
         $customerList = array();
         while ($row = mysql_fetch_array($result)){
             //$row['name'] = $row['company_code'].' '.$row['company_name'];
-            $row['name'] = $row['company_name'];
+            $row['name'] = $row['name'];
             $customerList[] = $row;
         }
         echo json_encode($customerList);

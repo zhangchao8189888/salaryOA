@@ -86,14 +86,9 @@ class EmployAction extends BaseAction {
         $this->objDao = new EmployDao();
         $employInfo = $this->objDao->getEmployById($employId);
         $this->objDao = new BaseDataDao();
-        $companyTree = $this->objDao->getCompanyRootIdByCompanyId($employInfo['e_company_id']);
-        $companyList = $this->objDao->getDepartmentsByCompanyId($companyTree['id']);
-        while($row = mysql_fetch_array($companyList)) {
-            $pao['name'] = $row['name'];
-            $pao['id'] = $row['id'];
-            $department[] = $pao;
-        }
-        $employInfo['department'] = $department;
+        $department = $this->objDao->getDepartmentsById($employInfo['department_id']);
+
+        $employInfo['department'] = $department['name'];
         echo json_encode($employInfo);
         exit;
     }
@@ -335,12 +330,15 @@ class EmployAction extends BaseAction {
         $this->mode = "toEmployList";
         $searchType = $_REQUEST['searchType'];
         $search_name = $_REQUEST['search_name'];
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
         $this->objDao = new EmployDao();
         $where = '';
+        $where.= ' and e_company_id='.$companyId;
         if ($searchType =='e_company') {
             $where.= ' and e_company like "%'.$search_name.'%"';
         } elseif ($searchType =='e_num') {
-            $where.= ' and e_num ='.$search_name;
+            $where.= ' and e_num like "'.$search_name.'%"';
         } elseif ($searchType =='e_name') {
             $where.= ' and e_name like "%'.$search_name.'%"';
         }
@@ -386,15 +384,17 @@ class EmployAction extends BaseAction {
     }
     function saveOrUpdateEmploy () {
         //company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type
+        $user = $_SESSION ['admin'];
+        $companyId = $user['user_id'];
         $employ = array();
         $employ['id'] = $_POST['employ_id'];
         $employ['e_name'] = $_POST['e_name'];
-        $employ['e_company_id'] = $_POST['company_id'];
+        $employ['e_company_id'] = $companyId;
         $employ['e_num'] = $_POST['e_num'];
         $employ['bank_name'] = $_POST['e_bank'];
         $employ['bank_num'] = $_POST['bank_no'];
         $employ['e_type'] = $_POST['e_type'];
-        $employ['e_company'] = $_POST['e_company'];
+        $employ['e_company'] = $user['real_name'];
         $employ['shebaojishu'] = $_POST['shebaojishu'];
         $employ['gongjijinjishu'] = $_POST['gongjijinjishu'];
         $employ['laowufei'] = $_POST['laowufei'];

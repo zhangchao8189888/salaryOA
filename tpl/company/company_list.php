@@ -85,19 +85,8 @@ $admin=$_SESSION['admin'];
 
                             <div class="controls">
                                 <form id="iForm" action="index.php?action=Company&mode=toCompanyList" method="post">
-                                    <select id="searchType" name="searchType"   onchange="searchByType()" >
-                                        <option value="name" <?php if ($searchType == 'name') echo 'selected'; ?>>企业名称</option>
-                                        <option value="status" <?php if ($searchType == 'status') echo 'selected'; ?>>企业状态</option>
-                                    </select>
-                                    <input type="text" value="<?php echo $search_name;?>" name="search_name" id="search_name" placeholder="请输入企业名称"/>
-                                    <select id="com_status" name="com_status"   onchange="searchByStatus()" style="display: none">
-                                        <option value="1" <?php if ($com_status == '1') echo 'selected'; ?>>启用</option>
-                                        <option value="0" <?php if ($com_status == '0') echo 'selected'; ?>>停用</option>
-                                    </select>
-                                    <input type="submit" value="查询"/>
-                                    <input type="hidden" value="" id="pro_id"/>
-                                    <input type="hidden" value="" id="pro_code"/>
-                                    <div style="float: right;margin-right: 20px"><a href="#" id="com_add" class="btn btn-success" >新增企业</a></div>
+
+<!--                                    <div style="float: right;margin-right: 20px"><a href="#" id="com_add" class="btn btn-success" >新增企业</a></div>-->
                                 </form>
                             </div>
                             <table class="table table-bordered table-striped table-hover">

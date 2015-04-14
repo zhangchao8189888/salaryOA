@@ -66,6 +66,11 @@ class BaseDataDao extends BaseDao
         $result=$this->g_db_query($sql);
         return $result;
     }
+    function getDepartmentsById ($departId) {
+        $sql ="select * from OA_department_tree where  id = $departId";
+        $result=$this->g_db_query($sql);
+        return mysql_fetch_array($result);
+    }
     function getDepartmentByNameAndComId($daprtName,$companyId) {
         $sql ="select * from OA_department_tree where name='{$daprtName}' and pid = $companyId";
         $result=$this->g_db_query($sql);
@@ -109,6 +114,32 @@ class BaseDataDao extends BaseDao
     }
     function getNoticeByCompanyId($comId) {
         $sql = "select *  from OA_notice where company_id = $comId order by update_time desc";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function getZiduanListByComId($comId) {
+        $sql = "select *  from OA_ziduan where company_id = $comId  order by update_time desc";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function getZiduanListByName($name,$companyId) {
+        $sql = "select *  from OA_ziduan where zd_name = '{$name}' and company_id = $companyId";
+        $result=$this->g_db_query($sql);
+        return mysql_fetch_array($result);
+    }
+    function getZiduanById($id) {
+        $sql = "select *  from OA_ziduan where id = $id";
+        $result=$this->g_db_query($sql);
+        return mysql_fetch_array($result);
+    }
+    function addSalZiduan($ziduan) {
+        $sql = "insert into  OA_ziduan  (zd_name,department_id,company_id,zd_type,update_time)  values
+        ('{$ziduan['zd_name']}',{$ziduan['department_id']},{$ziduan['company_id']},{$ziduan['zd_type']},now())";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function delSalZiduan($id) {
+        $sql = "delete from  OA_ziduan  where id = $id";
         $result=$this->g_db_query($sql);
         return $result;
     }
