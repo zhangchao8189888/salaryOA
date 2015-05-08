@@ -46,6 +46,8 @@ class AdminForm extends BaseForm
                 return "product/productUpdate.php";
             case "index" :
                 return "admin/index.php";
+            case "test" :
+                return "salary/test.php";
            default :
                 return "BaseConfig.php";
         }

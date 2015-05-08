@@ -107,8 +107,14 @@ class BaseDataAction extends BaseAction {
     function toSetSalZiduan () {
         $this->mode = "toSetSalZiduan";
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
-        $departId = $_REQUEST['id'];
+        if ($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $departId = $user['user_id'];
+        } elseif ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+            $departId = 0;
+        }
+
         $this->objDao = new BaseDataDao();
         $result = $this->objDao->getZiduanListByComId($companyId,$departId);
         $data = array();
@@ -139,11 +145,17 @@ class BaseDataAction extends BaseAction {
     }
     function addZiduan (){
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
+        if ($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $departId = $user['user_id'];
+        } elseif ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+            $departId = 0;
+        }
         $zd = array();
         $zd['zd_name'] = $_REQUEST['zd_name'];
         $zd['zd_type'] = $_REQUEST['zd_type'];
-        $zd['department_id'] = 0;
+        $zd['department_id'] = $departId;
         $zd['company_id'] = $companyId;
 
         $this->objDao = new BaseDataDao();
@@ -167,8 +179,13 @@ class BaseDataAction extends BaseAction {
     }
     function getZiduanByIdJson () {
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
-        $departId = $_REQUEST['id'];
+        if ($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $departId = $user['user_id'];
+        } elseif ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+            $departId = 0;
+        }
         $this->objDao = new BaseDataDao();
         $result = $this->objDao->getZiduanListByComAndDepartmentId($companyId,$departId);
         $data = array();

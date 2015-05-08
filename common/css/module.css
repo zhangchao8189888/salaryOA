@@ -1,0 +1,79 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.c,.clear{clear:both}
+.clearfix:after{content:";";clear:both;display:block;visibility:hidden;height:0;font-size:0}
+.clearfix{zoom:1}
+.step{
+    font-size:14px;
+    padding:5px 0;
+    text-align: center;
+}
+.step ul li{
+    position:relative;
+    display: block;
+    float:left;
+    width:160px;
+    color:#898989;
+}
+.step ul li .mark{
+    display: block;
+    width:68px;
+    height:69px;
+    margin:auto;
+    cursor:pointer;
+    background:url("../img/m-bg01.png");
+}
+.step ul li .name{
+    display: block;
+    margin:20px 0 0;
+}
+.step ul li .line{
+    position:absolute;
+    right:-39px;
+    top:32px;
+    display: block;
+    width:80px;
+    height:2px;
+    background:#c9caca;
+}
+.step .already.s1{
+    color:#efb13b;
+}
+.step .already.s2{
+    color:#ef6e3c;
+}
+.step .already.s3{
+    color:#6fbb58;
+}
+.step .already.s4{
+    color:#27a9e3;
+}
+.step ul .already .line{
+    background:#ef6e3b;
+}
+.step ul .s1 .mark{
+    background-position:0px 0px;
+}
+.step ul .s2 .mark{
+    background-position:-162px 0px;
+}
+.step ul .s3 .mark{
+    background-position:-324px 0px;
+}
+.step ul .s4 .mark{
+    background-position:-485px 0px;
+}
+.step .already.s1 .mark{
+    background-position:0px -90px;
+}
+.step .already.s2 .mark{
+    background-position:-162px -90px;
+}
+.step .already.s3 .mark{
+    background-position:-324px -90px;
+}
+.step .already.s4 .mark{
+    background-position:-485px -90px;
+}

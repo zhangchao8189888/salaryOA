@@ -10,16 +10,17 @@ $(function(){
     var container = document.getElementById("exampleGrid");
     var hot5 = Handsontable(container, {
         data: [],
-        startRows: 5,
-        startCols: 4,
-        colWidths: [], //can also be a number or a function
-        rowHeaders: true,
-        colHeaders: [],
         stretchH: 'last',
         manualColumnResize: true,
         manualRowResize: true,
-        minSpareRows: 0,
-        contextMenu: true
+        contextMenu: true,
+        rowHeaders: true,
+        colHeaders: true,
+        colWidths: [55, 80, 80, 80, 80, 80, 80],
+        manualColumnMove: false,
+        manualRowMove: true,
+        minSpareRows: 1,
+        persistentState: true
     });
     var selectFirst = document.getElementById('selectFirst'),
         rowHeaders = document.getElementById('rowHeaders'),
@@ -97,6 +98,8 @@ $(function(){
         stretchH: 'last',
         manualColumnResize: true,
         manualRowResize: true,
+        manualColumnMove: false,
+        manualRowMove: true,
         readOnly:true,
         minSpareRows: 0,
         contextMenu: true
@@ -119,7 +122,7 @@ $(function(){
     var errorList = [];
     $('#sumFirst').click(function () {
         $.ajax({
-            url: "index.php?action=Salary&mode=sumSalary",
+            url: "index.php?action=Salary&mode=autoSumSalary",
             data: {
                 ziduan: hot5.getColHeader(),
                 data: hot5.getData()
@@ -153,6 +156,9 @@ $(function(){
                     });
                     hot6.updateSettings({
                         colWidths: colWidths
+                    });
+                    hot6.updateSettings({
+                        manualRowMove: false
                     });
                     hot6.loadData(salary);
                     hot6.updateSettings({

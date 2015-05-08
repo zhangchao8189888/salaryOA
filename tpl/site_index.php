@@ -24,13 +24,29 @@ $notice=$form_data['notice'];
     <!--Action boxes-->
     <div class="container-fluid" >
         <div class="quick-actions_homepage">
-            <ul class="quick-actions">
-                <!--<li class="bg_lb"> <a href="index.php?action=Company&mode=toDepartmentEdit"> <i class="icon-paste"></i> 部门设置</a> </li>-->
-                <!--<li class="bg_ly"> <a href="index.php?action=Company&mode=toEmployList"> <i class="icon-group"></i> 员工信息</a> </li>-->
-                <li class="bg_lo"> <a href="index.php?action=Employ&mode=toSalaryList"> <i class="icon-star"></i> 个人薪资</a> </li>
-                <!--                <li class="bg_ly span3" > <a href="index.php?action=Duizhang&mode=toAutoDuizhang"> <i class="icon-calendar"></i><span class="label label-success">10</span> 自动对账</a> </li>-->
-                <!--                <li class="bg_lo"> <a href="index.php?action=Duizhang&mode=toAutoDuizhang"> <i class="icon-paste"></i> 余额平衡调节</a> </li>-->
-            </ul>
+            <div class="step">
+                <ul class="clearfix">
+                    <li class="s1 already">
+                        <div class="line"></div>
+                        <span class="mark" src="index.php?action=Employ&mode=toEmImport"></span>
+                        <span class="name">新增或导入员工信息</span>
+                    </li>
+                    <li class="s2 already">
+                        <div class="line"></div>
+                        <span class="mark" src="index.php?action=BaseData&mode=toSetSalZiduan"></span>
+                        <span class="name">录入工资单子项</span>
+                    </li>
+                    <li class="s3 already">
+                        <div class="line"></div>
+                        <span class="mark" src="index.php?action=Salary&mode=toMakeSalary"></span>
+                        <span class="name">做工资</span>
+                    </li>
+                    <li class="s4 already">
+                        <span class="mark" src="index.php?action=Salary&mode=salarySearchList"></span>
+                        <span class="name">工资查询</span>
+                    </li>
+                </ul>
+            </div>
         </div>
         <!--<div class="quick-actions_homepage">
             <ul class="quick-actions">

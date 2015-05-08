@@ -3,6 +3,16 @@ $error=$form_data['error'];
 $mess=$form_data['mess'];
 $succ=$form_data['succ'];
 $files=$form_data['files'];
+session_start();
+$user = $_SESSION ['admin'];
+if ($user['user_type'] == 1)
+{
+    $company_id =  $user['user_id'];
+    $company_name = $user['real_name'];
+} elseif ($user['user_type'] == 3) {
+    $company_id =  $user['company_id'];
+    $company_name =  $user['company_name'];
+}
 
 ?>
 <style type="text/css">
@@ -156,8 +166,8 @@ $files=$form_data['files'];
                                 <form id="salForm" action="" method="post">
                                     <input type="submit" value="导入" class="btn btn-success" id="submitBtn1" >
                                     <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属公司：
-                                        <input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" />
-                                        <input type="hidden" value="" id="company_id" name="company_id"/>
+                                        <input type="text" maxlength="20" id="e_company"name="e_company" value="<?php echo $company_name;?>" readonly autocomplete="off" />
+                                        <input type="hidden" value="<?php echo $company_id;?>" id="company_id" name="company_id"/>
                                         <input type="hidden" value="" id="fname" name="fname"/>
                                     </div>
                                     <div class="tips"><em style="color: red;padding-right: 10px;">*</em>工资月份：

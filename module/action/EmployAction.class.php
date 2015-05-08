@@ -142,9 +142,7 @@ class EmployAction extends BaseAction {
         $this->mode = "toEmImport";
         set_time_limit(1800);
         $errorMsg = "";
-        //var_dump($_FILES);
         $fileArray = split("\.", $_FILES['file']['name']);
-        //var_dump($fileArray);
         if (count($fileArray) != 2) {
             $this->mode = "toUpload";
             $errorMsg = '文件名格式 不正确';
@@ -184,10 +182,6 @@ class EmployAction extends BaseAction {
             $this->objForm->setFormData("error", $errorMsg);
             return;
         }
-        /*$err=Read_Excel_File($_FILES['file']['tmp_name'],$return);
-        if($err!=0){
-        $this->objForm->setFormData("error",$err);
-        }*/
         $path = $_FILES['file']['tmp_name'];
         $_ReadExcel = new PHPExcel_Reader_Excel2007();
         if (!$_ReadExcel->canRead($path)) $_ReadExcel = new PHPExcel_Reader_Excel5();
@@ -217,20 +211,21 @@ class EmployAction extends BaseAction {
                 }
             }
         }
-        //var_dump($return);
-        //exit;
+//        var_dump($return);
+//        exit;
         $this->objDao = new EmployDao();
         $this->objForm->setFormData("salarylist", $return);
 
         $employList = array();
-        $companyId = $_REQUEST['company_id'];
+        $user = $_SESSION ['admin'];
+        $department_id = 0;
+        if ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+        } elseif($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $department_id = $user['user_id'];
+        }
         $company = $this->objDao->getCompanyById($companyId);
-        /*if (empty($company)) {
-            //添加公司信息
-            $companyList = array();
-            $companyList['name'] = $comname;
-            $companyId = $this->objDao->addCompany($companyList);
-        }*/
         global $userTypeName;
         for ($i = 2; $i < count($return[Sheet1]); $i++) {
             $employList[$i]['e_company_id'] = $companyId;
@@ -250,10 +245,9 @@ class EmployAction extends BaseAction {
             $employList[$i]['memo'] = $return[Sheet1][$i][11];
             $employList[$i]['e_hetong_date'] = $return[Sheet1][$i][12];
             $employList[$i]['e_hetongnian'] = findNullReturnNumber($return[Sheet1][$i][13]);
-            $employList[$i]['department_id'] = 0;
+            $employList[$i]['department_id'] = $department_id;
 
         }
-        //var_dump($employList);
         $errorList = array();
         $emList = array();
         $j = 0;
@@ -266,7 +260,6 @@ class EmployAction extends BaseAction {
                     $errorList[$j]["errmg"] = "此员工身份证号已存在，请重新确认";
                     $errorList[$j]["e_name"] = $employList[$i]["e_name"];
                     $errorList[$j]["e_num"] = $employList[$i]["e_num"];
-                    // $this->objForm->setFormData("succ",$succMsg);
                     $j++;
                     continue;
                 }
@@ -285,7 +278,7 @@ class EmployAction extends BaseAction {
                             $id = $this->objDao->g_db_last_insert_id();
                             $employList[$i]['department_id'] = $id;
                         } else {
-                            $employList[$i]['department_id'] = 0;
+                            $employList[$i]['department_id'] = $department_id;
                         }
                     }
                 }
@@ -309,16 +302,8 @@ class EmployAction extends BaseAction {
         $opLog['what'] = 0;
         $opLog['Subject'] = OP_LOG_IMPORT_EMPLOY;
         $opLog['memo'] = '';
-        //{$OpLog['who']},{$OpLog['what']},{$OpLog['Subject']},{$OpLog['time']},{$OpLog['memo']}
         $rasult = $this->objDao->addOplog($opLog);
         if (!$rasult) {
-            $exmsg->setError(__FUNCTION__, "addAdmin  add oplog  faild ");
-            $this->objForm->setFormData("warn", "导入员工操作失败");
-            //事务回滚
-            //$this->objDao->rollback();
-            throw new Exception ($exmsg->error());
-        }
-        if (!$retult) {
             $errorList[$j]["errmg"] = "此员工添加失败，请检查格式是否正确后重新导入";
             $errorList[$j]["e_name"] = $errorList[$j]["e_name"];
             $errorList[$j]["e_num"] = $errorList[$j]["e_num"];
@@ -331,9 +316,17 @@ class EmployAction extends BaseAction {
         $searchType = $_REQUEST['searchType'];
         $search_name = $_REQUEST['search_name'];
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
+        if ($user['user_type']== 3) {
+            $companyId = $user['company_id'];
+        } else {
+            $companyId = $user['user_id'];
+        }
+
         $this->objDao = new EmployDao();
         $where = '';
+        if ($user['user_type']== 3) {
+            $where.= ' and department_id='.$user['user_id'];
+        }
         $where.= ' and e_company_id='.$companyId;
         if ($searchType =='e_company') {
             $where.= ' and e_company like "%'.$search_name.'%"';

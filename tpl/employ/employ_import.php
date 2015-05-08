@@ -32,6 +32,29 @@ $emList=$form_data['emList'];
                     <div class="widget-title"> <span class="icon"> <i class="icon-info-sign"></i> </span>
                         <h5>员工导入 </h5>
                     </div>
+                    <div class="step">
+                        <ul class="clearfix">
+                            <li class="s1 already">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=Employ&mode=toEmImport"></span>
+                                <span class="name">新增或导入员工信息</span>
+                            </li>
+                            <li class="s2 ">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=BaseData&mode=toSetSalZiduan"></span>
+                                <span class="name">录入工资单子项</span>
+                            </li>
+                            <li class="s3 ">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=Salary&mode=toMakeSalary"></span>
+                                <span class="name">编辑工资</span>
+                            </li>
+                            <li class="s4 ">
+                                <span class="mark" src="index.php?action=Salary&mode=salarySearchList"></span>
+                                <span class="name">工资查询</span>
+                            </li>
+                        </ul>
+                    </div>
                     <div class="widget-content nopadding">
                         <?php if (!empty($error)) {?>
                             <div class="alert alert-error">

@@ -77,8 +77,8 @@ $ziduanTupe=array(
     1=> "相加项",
     2=> "相见项",
 );
-global $memu;
-$memu=array(
+global $memu1;
+$memu1=array(
     '1' => array(
         'resource'   => '基础信息设置',
         'action' => 'BaseData',
@@ -171,6 +171,61 @@ $memu=array(
                 'action' => 'Financial',
                 'mode' => 'toFukuandanList',
                 'resource'	=> '付款单',
+            ),
+        ),
+    ),
+
+);
+global $memu2;
+$memu2=array(
+    '1' => array(
+        'resource'   => '基础信息设置',
+        'action' => 'BaseData',
+        'icon'		 =>	'edit',
+        'son'		 => array(
+            '1'	=> array(
+                'action' => 'BaseData',
+                'mode' => 'toSetSalZiduan',
+                'resource'	=> '工资字段设置',
+            ),
+        ),
+    ),
+    '2' => array(
+        'action' => 'Employ',
+        'resource'   => '员工管理',
+        'icon'		 =>	'user',
+        'son'		 => array(
+            '1'	=> array(
+                'action' => 'BaseData',
+                'mode' => 'toEmployList',
+                'resource'	=> '员工查询',
+            ),
+            '2'	=> array(
+                'action' => 'BaseData',
+                'mode' => 'toEmImport',
+                'resource'	=> '员工导入',
+            ),
+        ),
+    ),
+    '3' => array(
+        'action' => 'Salary',
+        'resource'   => '工资管理',
+        'icon'		 =>	'money',
+        'son'		 => array(
+            '1'	=> array(
+                'action' => 'Salary',
+                'mode' => 'toSalaryUpload',
+                'resource'	=> '做工资',
+            ),
+            '2'	=> array(
+                'action' => 'Salary',
+                'mode' => 'toMakeSalary',
+                'resource'	=> '自动做工资',
+            ),
+            '3'	=> array(
+                'action' => 'Salary',
+                'mode' => 'salarySearchList',
+                'resource'	=> '工资查询',
             ),
         ),
     ),

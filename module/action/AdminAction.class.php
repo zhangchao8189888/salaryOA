@@ -1,6 +1,8 @@
 <?php
 require_once("module/form/".$actionPath."Form.class.php");
 require_once("module/dao/".$actionPath."Dao.class.php");
+require_once("module/dao/BaseDataDao.class.php");
+
 require_once("tools/fileTools.php");
 
 require_once("tools/excel_class.php");
@@ -89,10 +91,16 @@ class AdminAction extends BaseAction{
             case "logoff":
                 $this->logoff();
                 break;
+            case "test":
+                $this->test();
+                break;
             default :
                 $this->modelInput();
                 break;
         }
+    }
+    function test () {
+        $this->mode	=	"test";
     }
     function modelInput() {
         $this->mode	=	"toIndex";
@@ -242,6 +250,14 @@ class AdminAction extends BaseAction{
             } elseif ($check['user_type'] == 1) {
                 $company = $this->objDao->getCompanyById($check['user_id']);
                 $check['real_name'] = $company['company_name'];
+            } elseif ($check['user_type'] == 3) {
+                $this->objDao = new BaseDataDao();
+                $department = $this->objDao->getDepartmentsById($check['user_id']);
+                $check['real_name'] = $department['name'];
+                $companyTree = $this->objDao->getDepartmentsById($department['pid']);
+                $companyId = $companyTree['company_id'];
+                $check['company_id'] =$companyId;
+                $check['company_name'] =$companyTree['name'];
             }
             $_SESSION['admin']=$check;
             header("Location: index.php");

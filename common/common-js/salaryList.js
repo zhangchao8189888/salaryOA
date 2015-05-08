@@ -173,6 +173,30 @@ $(document).ready(function () {
         $("#iForm").submit();
 
     });
+    $(".rowDell").click(function(){
+        if (confirm("要删除本月工资吗？")) {
+            var salTimeId = $(this).attr("data-id");
+            $.ajax({
+                url: "index.php?action=Salary&mode=delSalaryAjax",
+                data: {
+                    salTimeId : salTimeId
+                }, //returns all cells' data
+                dataType: 'json',
+                type: 'POST',
+                success: function (res) {
+                    if (res.code == 100000) {
+                        alert(res.message);
+                        window.location.reload();
+                    }
+                    else {
+                        alert(res.message);
+                    }
+                }
+            });
+        }
+
+
+    });
 });/**
  * Created by zhangchao8189888 on 15-1-3.
  */

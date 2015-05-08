@@ -21,7 +21,7 @@ $companyName = $user['real_name'];
     <div id="content-header">
         <div id="breadcrumb">
             <a href="index.php" title="返回首页" class="tip-bottom"><i class="icon-home"></i>首页</a>
-            <a href="#">字段选择</a>
+            <a href="#">自动做工资</a>
         </div>
     </div>
     <div class="container-fluid">
@@ -30,6 +30,29 @@ $companyName = $user['real_name'];
                 <div class="widget-box">
                     <div class="widget-title"> <span class="icon"> <i class="icon-info-sign"></i> </span>
                         <h5>字段选择 </h5>
+                    </div>
+                    <div class="step">
+                        <ul class="clearfix">
+                            <li class="s1 already">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=Employ&mode=toEmImport"></span>
+                                <span class="name">新增或导入员工信息</span>
+                            </li>
+                            <li class="s2 already">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=BaseData&mode=toSetSalZiduan"></span>
+                                <span class="name">录入工资单子项</span>
+                            </li>
+                            <li class="s3 already">
+                                <div class="line"></div>
+                                <span class="mark" src="index.php?action=Salary&mode=toMakeSalary"></span>
+                                <span class="name">做工资</span>
+                            </li>
+                            <li class="s4">
+                                <span class="mark" src="index.php?action=Salary&mode=salarySearchList"></span>
+                                <span class="name">工资查询</span>
+                            </li>
+                        </ul>
                     </div>
                     <div class="widget-content nopadding">
                             <div class="form-actions">
@@ -69,7 +92,7 @@ $companyName = $user['real_name'];
                                 <input type="button" value="重置" class="btn btn-primary" id="reload" />
                                 <input type="button" value="计算工资" class="btn btn-success" id="sumFirst" />
                             </div>
-                            <div id="exampleGrid" class="dataTable" style="width: 500px; height: 500px; overflow: auto"></div>
+                            <div id="exampleGrid" class="dataTable handsontable"></div>
                         </div>
                     </div>
                 </div>

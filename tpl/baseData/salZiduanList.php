@@ -17,6 +17,29 @@ $ziduanList=$form_data['ziduanList'];
             <a href="#">工资字段</a>
         </div>
     </div>
+    <div class="step">
+        <ul class="clearfix">
+            <li class="s1 already">
+                <div class="line"></div>
+                <span class="mark" src="index.php?action=Employ&mode=toEmImport"></span>
+                <span class="name">新增或导入员工信息</span>
+            </li>
+            <li class="s2 already">
+                <div class="line"></div>
+                <span class="mark" src="index.php?action=BaseData&mode=toSetSalZiduan"></span>
+                <span class="name">录入工资单子项</span>
+            </li>
+            <li class="s3">
+                <div class="line"></div>
+                <span class="mark" src="index.php?action=Salary&mode=toMakeSalary"></span>
+                <span class="name">做工资</span>
+            </li>
+            <li class="s4">
+                <span class="mark" src="index.php?action=Salary&mode=salarySearchList"></span>
+                <span class="name">工资查询</span>
+            </li>
+        </ul>
+    </div>
     <div class="container-fluid">
         <div class="row-fluid">
             <div class="span12">

@@ -117,8 +117,12 @@ class BaseDataDao extends BaseDao
         $result=$this->g_db_query($sql);
         return $result;
     }
-    function getZiduanListByComId($comId) {
-        $sql = "select *  from OA_ziduan where company_id = $comId  order by update_time desc";
+    function getZiduanListByComId($comId,$departmentId = null) {
+        $sql = "select *  from OA_ziduan where company_id = $comId ";
+        if ($departmentId)  {
+            $sql .=" and department_id = $departmentId  ";
+        }
+        $sql .= "order by update_time desc";
         $result=$this->g_db_query($sql);
         return $result;
     }
