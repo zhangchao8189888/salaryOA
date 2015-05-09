@@ -219,7 +219,6 @@ $(function(){
             type: 'POST',
             success: function (res) {
                 if (res.code > 100000) {
-                    console.text('Data saved');
                     alert(res.mess);
                     return;
                 }

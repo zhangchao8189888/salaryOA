@@ -162,6 +162,10 @@ class BaseDao extends db {
         }elseif ($searchType == 3) {
             $sql .= " salaryTime>='{$salTime}' and salaryTime<='{$dateEnd}' ";
         }
+        $user = $_SESSION ['admin'];
+        if ($user['user_type']== 3) {
+            $sql .= " and department_id ={$user['user_id']} ";
+        }
         $result = $this->g_db_query ( $sql );
         return mysql_fetch_array ( $result );
     }

@@ -303,6 +303,12 @@ class SaveSalaryAction extends BaseAction {
 		$salaryTime ['salaryTime'] = $salaryTimeDate;
 		$salaryTime ['op_salaryTime'] = date ( "Y-m-d H:i:s" );
 		$salaryTime ['mark'] = $mark;
+        $user = $_SESSION ['admin'];
+        if ($user['user_type']== 3) {
+            $salaryTime ['department_id'] = $user['user_id'];
+        } else {
+            $salaryTime ['department_id'] = 0;
+        }
 		$lastSalaryTimeId = $this->objDao->saveSalaryTime ( $salaryTime );
 		if (! $lastSalaryTimeId) {
             $this->objDao->rollback ();

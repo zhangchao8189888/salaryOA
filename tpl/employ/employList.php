@@ -211,35 +211,125 @@ $admin=$_SESSION['admin'];
     </div>
     <form action="" id="company_validate" method="post" class="form-horizontal"  novalidate="novalidate">
         <div class="modal-body">
-            <div class="designer_win">
-                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>姓名：<input type="text" maxlength="20" id="e_name"name="e_name"  /><input type="hidden" value="" id="employ_id" name="employ_id"/></div>
-                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属部门：<input type="text" maxlength="20" id="department"name="department" autocomplete="off" /><input type="hidden" value="" id="department_id" name="department_id"/></div>
-                <div class="tips"><em style="color: red;padding-right: 10px;">*</em>身份证号：<input type="text" maxlength="20" id="e_num"name="e_num"  /></div>
-                <div class="tips">银行卡号：<input type="text" maxlength="20" id="bank_no"  /></div>
-                <div class="tips">开户行：<input type="text" maxlength="20" id="e_bank"  /></div>
-                <div class="tips">社保基数：<input type="text" maxlength="20" id="shebaojishu"  value="0.00"/></div>
-                <div class="tips">公积金基数：<input type="text" maxlength="20" id="gongjijinjishu"  value="0.00"/></div>
-                <div class="tips">身份类别：<select name="company_type" id="e_type"/>
-                    <option value="0">未缴纳保险</option>
-                    <option value="1">本市城镇职工</option>
-                    <option value="2">外埠城镇职工</option>
-                    <option value="3">本市农村劳动力</option>
-                    <option value="4">外地农村劳动力</option>
-                    <option value="5">本市农民工</option>
-                    <option value="6">外地农民工</option>
-                    </select></div>
-                <div class="tips">员工状态：<select name="e_state" id="e_state"/>
-                    <option value="1">正常</option>
-                    <option value="2">离职</option>
-                    </select></div>
-                <div class="tips">劳务费：<input type="text" maxlength="20" id="laowufei" value="0.00" /></div>
-                <div class="tips">档案费：<input type="text" maxlength="20" id="danganfei"  value="0.00" /></div>
-                <div class="tips">残保金：<input type="text" maxlength="20" id="canbaojin" value="0.00"   /></div>
-                <div class="tips">合同年份：<input type="text" maxlength="20" id="e_hetongnian"name="e_hetongnian"/>年</div>
-                <div class="tips">合同介绍日期：<input type="text" maxlength="20" id="e_hetong_date"name="e_hetong_date"  onFocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd',realDateFmt:'yyyy-MM-dd'})" /></div>
-                <div class="tips">备注：<textarea id="memo">
+            <div class="form-horizontal form-alert">
+                <div class="control-group">
+                    <label class="control-label"><em style="color: red;padding-right: 10px;">*</em>姓名：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="e_name"name="e_name"  />
+                        <input type="hidden" value="" id="employ_id" name="employ_id"/>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label"><em style="color: red;padding-right: 10px;">*</em>所属部门：</label>
+                    <div class="controls">
+                        <?php $user = $_SESSION ['admin'];
+                        if ($user['user_type']== 3) {
+                            $companyId = $user['company_id'];
+                            $name = $user['real_name'];
+                            ?>
+                            <input type="text" maxlength="20" value="<?php echo $name;?>" readonly id="department"name="department" autocomplete="off" />
+                            <input type="hidden" value="<?php echo $user['user_id'];?>" id="department_id" name="department_id"/>
+                        <?php
+                        } else {
+                            ?>
+                            <input type="text" maxlength="20" id="department"name="department" autocomplete="off" />
+                            <input type="hidden" value="" id="department_id" name="department_id"/>
+                        <?
+                        }?>
 
-                    </textarea></div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label"><em style="color: red;padding-right: 10px;">*</em>身份证号：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="e_num"name="e_num"  />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">银行卡号：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="bank_no"  />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">开户行：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="e_bank"  />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">社保基数：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="shebaojishu"  value="0.00"/>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">公积金基数：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="gongjijinjishu"  value="0.00"/>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">身份类别：</label>
+                    <div class="controls">
+                        <select name="company_type" id="e_type"/>
+                        <option value="0">未缴纳保险</option>
+                        <option value="1">本市城镇职工</option>
+                        <option value="2">外埠城镇职工</option>
+                        <option value="3">本市农村劳动力</option>
+                        <option value="4">外地农村劳动力</option>
+                        <option value="5">本市农民工</option>
+                        <option value="6">外地农民工</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">员工状态：</label>
+                    <div class="controls">
+                        <select name="e_state" id="e_state"/>
+                        <option value="1">正常</option>
+                        <option value="2">离职</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">劳务费：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="laowufei" value="0.00" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">档案费：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="danganfei"  value="0.00" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">残保金：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="canbaojin" value="0.00"   />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">合同年份：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="e_hetongnian"name="e_hetongnian"/>年
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">合同结束日期：</label>
+                    <div class="controls">
+                        <input type="text" maxlength="20" id="e_hetong_date"name="e_hetong_date"  onFocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM-dd',realDateFmt:'yyyy-MM-dd'})" />
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label">备注：</label>
+                    <div class="controls">
+                        <textarea id="memo">
+
+                        </textarea>
+                    </div>
+                </div>
             </div>
         </div>
 

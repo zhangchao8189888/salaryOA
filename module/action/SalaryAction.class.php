@@ -927,9 +927,14 @@ class SalaryAction extends BaseAction {
         $this->objDao=new SalaryDao();
         $where=array();
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
+        if ($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $departId = $user['user_id'];
+        } elseif ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+            $departId = 0;
+        }
         $where['companyId'] = $companyId;
-
         $salTime = $_REQUEST['salaryTime'];
         $opTime = $_REQUEST['op_salaryTime'];
         if($opTime) {
@@ -989,7 +994,11 @@ class SalaryAction extends BaseAction {
     function autoSumSalary () {
         $ziduans = $_REQUEST['ziduan'];//字段
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
+        if ($user['user_type']== 3) {
+            $companyId = $user['company_id'];
+        } else {
+            $companyId = $user['user_id'];
+        }
         $this->objDao = new BaseDataDao();
         $addArray = array();
         $delArray = array();

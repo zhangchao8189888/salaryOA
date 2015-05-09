@@ -4,8 +4,13 @@ $mess=$form_data['mess'];
 $succ=$form_data['succ'];
 $ziduanList=$form_data['ziduanList'];
 $user = $_SESSION ['admin'];
-$companyId = $user['user_id'];
-$companyName = $user['real_name'];
+if($user['user_type'] == 1) {
+    $companyId = $user['user_id'];
+    $companyName = $user['real_name'];
+}elseif($user['user_type'] == 3){
+    $companyId = $user['company_id'];
+    $companyName = $user['company_name'];
+}
 ?>
 <style type="text/css">
     .divCheck{

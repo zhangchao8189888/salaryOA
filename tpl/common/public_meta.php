@@ -16,6 +16,7 @@
 <link rel="stylesheet" href="common/css/ui-common.css" />
 <link rel="stylesheet" href="common/css/custom.css" />
 <link rel="stylesheet" href="common/css/module.css" />
+<link rel="stylesheet" href="common/css/ff-common.css" />
 
 
 <script language="javascript" type="text/javascript" src="common/js/jquery.min.js" charset="utf-8"></script>

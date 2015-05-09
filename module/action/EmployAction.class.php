@@ -361,7 +361,7 @@ class EmployAction extends BaseAction {
             $employ['id'] = $row['id'];
             $employ['e_company_id'] = $row['e_company_id'];
             $employ['e_name'] = $row['e_name'];
-            $employ['e_company'] = $row['e_company'];
+            $employ['e_company'] = $row['company_name'];
             $employ['e_num'] = $row['e_num'];
             $employ['e_type_name'] = $userType[$row['e_type']];
             $employ['shebaojishu'] = $row['shebaojishu'];
@@ -378,7 +378,13 @@ class EmployAction extends BaseAction {
     function saveOrUpdateEmploy () {
         //company_name,com_contact,contact_no,company_address,com_bank,bank_no,company_level,company_type
         $user = $_SESSION ['admin'];
-        $companyId = $user['user_id'];
+        if ($user['user_type'] == 3) {
+            $companyId = $user['company_id'];
+            $company_name =  $user['company_name'];
+        } elseif ($user['user_type'] == 1) {
+            $companyId = $user['user_id'];
+            $company_name =  $user['real_name'];
+        }
         $employ = array();
         $employ['id'] = $_POST['employ_id'];
         $employ['e_name'] = $_POST['e_name'];
@@ -387,7 +393,7 @@ class EmployAction extends BaseAction {
         $employ['bank_name'] = $_POST['e_bank'];
         $employ['bank_num'] = $_POST['bank_no'];
         $employ['e_type'] = $_POST['e_type'];
-        $employ['e_company'] = $user['real_name'];
+        $employ['e_company'] = $company_name;
         $employ['shebaojishu'] = $_POST['shebaojishu'];
         $employ['gongjijinjishu'] = $_POST['gongjijinjishu'];
         $employ['laowufei'] = $_POST['laowufei'];

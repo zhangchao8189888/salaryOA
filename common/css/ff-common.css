@@ -1,0 +1,27 @@
+.form-alert .control-label {
+    padding-top: 10px;
+    width: 110px;
+}
+.form-alert .controls {
+    margin-left: 130px;
+    padding: 5px 0;
+}
+.form-alert .control-group {
+    border-bottom: 0px solid #eeeeee;
+    border-top: 0px solid #ffffff;
+    margin-bottom: 0;
+}
+.form-alert .select2-container {
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    width: 60%;
+}
+.form-alert [class*="span"] {
+    float: left;
+    margin-left: 0px;
+    min-height: 1px;
+}
+.red-star {
+    color: red;padding-right: 10px;
+}

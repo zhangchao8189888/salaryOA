@@ -38,7 +38,7 @@ $(function(){
                     dataType :'json',
                     success: function(data){
                         if (data.code > 100000) {
-                            alert(data.message);
+                            alert(data.mess);
                             return;
                         }
                         window.location.reload();

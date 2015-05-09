@@ -192,7 +192,8 @@ of.company_id = oc.id and of.salary_time_id = os.id  and of.op_id =oa.id ;";
         return $result;
     }
     function saveSalaryTime($salaryTime) {
-        $sql = "insert into OA_salarytime (companyId,salaryTime,op_salaryTime,mark) values({$salaryTime['companyId']}
+        $sql = "insert into OA_salarytime (companyId,department_id,salaryTime,op_salaryTime,mark) values({$salaryTime['companyId']},
+        {$salaryTime['department_id']}
     	,'{$salaryTime['salaryTime']}','{$salaryTime['op_salaryTime']}','{$salaryTime['mark']}');";
         $list = $this->g_db_query ( $sql );
         if ($list) {
@@ -509,8 +510,10 @@ of.company_id = oc.id and of.salary_time_id = os.id  and of.op_id =oa.id ;";
      * @return int
      */
     function searhSalaryTimeListCount($where = null) {
-        $id = $_SESSION ['admin'] ['id'];
-        $sql = "select count(*) as cnt  from OA_salarytime st,OA_company c,OA_admin_company a where  a.adminId=$id and a.companyId = c.id and st.companyId=c.id  ";
+        $user = $_SESSION ['admin'];
+
+
+        $sql = "select count(*) as cnt  from OA_salarytime st,OA_company c where   a.companyId = c.id and st.companyId=c.id  ";
         if ($where != null) {
             if ($where ['companyName'] != "") {
                 $sql .= " and c.company_name like '%{$where['companyName']}%' ";
@@ -524,6 +527,10 @@ of.company_id = oc.id and of.salary_time_id = os.id  and of.op_id =oa.id ;";
             if ($where ['op_salaryTime'] != "") {
                 $sql .= " and st.op_salaryTime>='{$where['op_time']}' and st.op_salaryTime<'{$where['op_salaryTime']}' ";
             }
+
+            if ($user['user_type']== 3) {
+                $sql .= " and st.department_id ={$user['user_id']} ";
+            }
         }
         $result = $this->g_db_query ( $sql );
         if (! $result) {
@@ -534,7 +541,7 @@ of.company_id = oc.id and of.salary_time_id = os.id  and of.op_id =oa.id ;";
     }
     function searhSalaryTimeListPage($start = NULL, $limit = NULL, $sort = NULL, $where = null) {
         $id = $_SESSION ['admin'] ['id'];
-        $sql = "select st.*,c.company_name from OA_salarytime st,OA_company c,OA_admin_company a where a.adminId=$id  and st.companyId=c.id  ";
+        $sql = "select st.*,c.company_name from OA_salarytime st,OA_company c where st.companyId=c.id  ";
         if ($id && $_SESSION ['admin'] ['searchOrder']) {
             $sql.= ' and a.companyId = c.id';
         }
@@ -549,6 +556,11 @@ of.company_id = oc.id and of.salary_time_id = os.id  and of.op_id =oa.id ;";
                 $sql .= " and st.op_salaryTime>='{$where['op_time']}' and st.op_salaryTime<'{$where['op_salaryTime']}'";
             }
         }
+        $user = $_SESSION ['admin'];
+        if ($user['user_type']== 3) {
+            $sql .= " and st.department_id ={$user['user_id']} ";
+        }
+
         if ($sort) {
             $sql .= " order by $sort";
         }

@@ -33,11 +33,11 @@ class EmployDao extends BaseDao
         return $result;
     }
     function getEmployList($where,$startIndex,$pagesize) {
-        $sql="select * from OA_employ where 1=1";
+        $sql="select OA_employ.*,OA_company.company_name from OA_employ,OA_company where 1=1  and OA_employ.e_company_id = OA_company.id";
         if ($where) {
             $sql.=$where;
         }
-        $sql.=" order by update_time desc limit $startIndex,$pagesize";
+        $sql.=" order by OA_employ.update_time desc limit $startIndex,$pagesize";
         $result=$this->g_db_query($sql);
         return $result;
     }
@@ -96,7 +96,6 @@ class EmployDao extends BaseDao
     }
     function getEmployById($eid){
     	$sql="select oc.company_name,oe.*  from OA_employ oe,OA_company oc where oe.e_company_id = oc.id and oe.id=$eid";
-    	//echo $sql;
     	$result=$this->g_db_query($sql);
     	return mysql_fetch_array($result);
     }
