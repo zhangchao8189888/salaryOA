@@ -9,10 +9,10 @@
     <div class="container-fluid">
     <div class="search-form">
         <div class="row-fluid1">
-            <div class="search">
-                公司名称：<input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" /><input type="hidden" value="" id="company_id" name="company_id"/>
-                <input type="submit" value="搜索" name="yt0" class="btn btn-success" id="classify">
-            </div>
+<!--            <div class="search">-->
+<!--                公司名称：<input type="text" maxlength="20" id="e_company"name="e_company" autocomplete="off" /><input type="hidden" value="" id="company_id" name="company_id"/>-->
+<!--                <input type="submit" value="搜索" name="yt0" class="btn btn-success" id="classify">-->
+<!--            </div>-->
         </div>
     </div>
     <?php
@@ -48,7 +48,6 @@
                 <thead>
                 <tr>
                     <th><div>姓名</div></th>
-                    <th><div>单位名称</div></th>
                     <th><div>身份证号</div></th>
                     <th><div>身份类别</div></th>
                     <th><div>合同期限</div></th>

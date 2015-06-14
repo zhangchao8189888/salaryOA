@@ -106,6 +106,11 @@ class BaseDataDao extends BaseDao
         $result=$this->g_db_query($sql);
         return $result;
     }
+    function getEmlistbyDepartId($departId){
+        $sql="select *  from  OA_employ  where department_id = $departId";
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
     function getEmployById($eid){
         $sql="select *  from OA_employ where id=$eid";
         //echo $sql;

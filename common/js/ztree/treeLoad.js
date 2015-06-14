@@ -348,31 +348,34 @@ function removeTreeNode() {
 function onClick(e,treeId, treeNode) {
 	var zTree = $.fn.zTree.getZTreeObj("treeDemo");
     var data = zTree.getSelectedNodes()[0];
-    if (data.is_employ) {
+    if (!data.isParent) {
         var data = {
-            id : data.employ_id
+            id : data.id
         }
         $.ajax({
             type:'POST',
-            url:'index.php?action=BaseData&mode=getEmployByIdJson',
+            url:'index.php?action=BaseData&mode=getEmployByDeparIdJson',
             data: data,
             dataType:'Json',
             success:function(result){
                 var html = '';
                 var body = $('#employBody');
                 body.html('');
-                if(result == ''){
-                    html = '<tr class="odd"><td style="color:red">搜索结果为空</td></tr>'
+                if(!result.data ||  result.data.length == 0){
+                    html = '<tr class="odd"><td style="color:red" colspan="5">搜索结果为空</td></tr>'
                     body.append(html);
                     return false;
                 }
-                html = '<tr class="odd">' +
-                    '<td>'+result.e_name+'</td><td>'
-                    + result.e_company+'</td><td>' +
-                    '' + result.e_num+'</td><td>' +
-                    '' + result.e_type+'</td><td>' +
-                    '' + result.e_hetongnian+'年</td><td>' + result.e_hetong_date+'</td></tr>'
-                body.append(html);
+                for(var i = 0; i < result.data.length; i++) {
+                    var dataE = result.data[i];
+                    html = '<tr class="odd">' +
+                        '<td>'+dataE.e_name+'</td><td>'
+                        + dataE.e_num+'</td><td>' +
+                        '' + dataE.e_type+'</td><td>' +
+                        '' + dataE.e_hetong_start+'</td><td>' + dataE.e_hetong_end+'</td></tr>'
+                    body.append(html);
+                }
+
 
             }
         })

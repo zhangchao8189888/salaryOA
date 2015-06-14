@@ -94,10 +94,16 @@ class AdminAction extends BaseAction{
             case "test":
                 $this->test();
                 break;
+            case "toNoticePage":
+                $this->toNoticePage();
+                break;
             default :
                 $this->modelInput();
                 break;
         }
+    }
+    function toNoticePage () {
+        $this->mode	=	"toNoticePage";
     }
     function test () {
         $this->mode	=	"test";

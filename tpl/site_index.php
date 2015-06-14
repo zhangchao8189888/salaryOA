@@ -116,3 +116,14 @@ $notice=$form_data['notice'];
         <a href="#" class="btn" data-dismiss="modal">关闭</a>
     </div>
 </div>
+<script type="text/javascript">
+    $(document).ready(function(){
+        // === jQeury Gritter, a growl-like notifications === //
+        $.gritter.add({
+            title:  '合同到期提醒',
+            text: '有<em style="color: darkgreen">1</em>个合同到期提醒<br><br><a href="index.php?action=Admin&mode=toNoticePage">查看</a>',
+            image:  'common/img/demo/envelope.png',
+            sticky: true
+        });
+    });
+</script>

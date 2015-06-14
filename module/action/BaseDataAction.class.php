@@ -75,6 +75,9 @@ class BaseDataAction extends BaseAction {
             case "getEmployByIdJson" :
                 $this->getEmployByIdJson();
                 break;
+            case "getEmployByDeparIdJson" :
+                $this->getEmployByDeparIdJson();
+                break;
             case "toEmployList" :
                 $this->toEmployList();
                 break;
@@ -304,19 +307,24 @@ class BaseDataAction extends BaseAction {
         exit;
 
     }
-    function getEmployJson () {
+    function getEmployByDeparIdJson () {
+        $id = $_POST['id'];
         $this->objDao = new BaseDataDao();
-        $companyName ="系统测试公司";
-        $result = $this->objDao->getEmlistbyComname($companyName);
+        $result = $this->objDao->getEmlistbyDepartId($id);
         $emArr = array();
         $i=0;
+        global $userType;
         while ($row = mysql_fetch_array($result)) {
             $emArr[$i] ['id']= $row['id'];
-            $emArr[$i] ['eName']= $row['e_name'];
-            $emArr[$i] ['eNo']= $row['e_num'];
+            $emArr[$i] ['e_name']= $row['e_name'];
+            $emArr[$i] ['e_num']= $row['e_num'];
+            $emArr[$i] ['e_type'] = $userType[$row['e_type']];
+            $emArr[$i] ['e_hetong_start'] = $row['e_hetong_date'];
+            $emArr[$i] ['e_hetong_end'] = date('Y-m-d',strtotime('+'.$row['e_hetongnian'].' year',strtotime($row['e_hetong_date'])));
             $i++;
         }
-        echo json_encode($emArr);
+        $data['data'] = $emArr;
+        echo json_encode($data);
         exit;
     }
     function getEmployByIdJson () {

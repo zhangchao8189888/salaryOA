@@ -174,6 +174,23 @@ $memu1=array(
             ),
         ),
     ),
+    '5' => array(
+        'action' => 'Statis',
+        'resource'   => '统计报表',
+        'icon'		 =>	'star',
+        'son'		 => array(
+            '1'	=> array(
+                'action' => 'Statis',
+                'mode' => 'toEmployList',
+                'resource'	=> '员工个人合计',
+            ),
+            '2'	=> array(
+                'action' => 'Statis',
+                'mode' => 'toChartList',
+                'resource'	=> '图表统计',
+            ),
+        ),
+    ),
 
 );
 global $memu2;

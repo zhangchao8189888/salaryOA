@@ -48,6 +48,8 @@ class AdminForm extends BaseForm
                 return "admin/index.php";
             case "test" :
                 return "salary/test.php";
+            case "toNoticePage" :
+                return "admin/notice.php";
            default :
                 return "BaseConfig.php";
         }
