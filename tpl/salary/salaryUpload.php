@@ -102,8 +102,8 @@ if ($user['user_type'] == 1)
         }
         var href = 'index.php?action=Salary&mode=excelToHtml';
         $("#fname").val(fname);
-        $("#salForm").attr('action',href);
-        $("#salForm").submit();
+        $("#basic_validate").attr('action',href);
+        $("#basic_validate").submit();
 
     }
 </script>
@@ -161,9 +161,7 @@ if ($user['user_type'] == 1)
                                     </div>
                                 </div>
 
-                            </form>
                             <div class="form-actions">
-                                <form id="salForm" action="" method="post">
                                     <input type="submit" value="导入" class="btn btn-success" id="submitBtn1" >
                                     <div class="tips"><em style="color: red;padding-right: 10px;">*</em>所属公司：
                                         <input type="text" maxlength="20" id="e_company"name="e_company" value="<?php echo $company_name;?>" readonly autocomplete="off" />

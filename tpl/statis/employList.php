@@ -33,7 +33,7 @@ $department=$form_data['department'];
                         <div class="tab-pane active">
 
                             <div class="controls">
-                                <form id="iForm" action="index.php?action=Statis&mode=toEmployList" method="post">
+                                <form id="iForm" action="" method="post">
                                     <?php
                                     $i = 1;
                                     foreach($department as $row){
@@ -73,7 +73,7 @@ $department=$form_data['department'];
                                     <input type="hidden" name="salaryId" id="salaryId" value=""/>
                                 </form>
                                 <input type="checkbox" id="colHeaders" autocomplete="off"> <span>锁定前两列</span>
-                                <input type="button" value="保存导出" class="btn btn-success" id="import" />
+                                <!--<input type="button" value="保存导出" class="btn btn-success" id="import" />-->
                             </div>
                             <div id="emSalGrid" class="dataTable" style="width: 900px; height: 400px; overflow: auto"></div>
                         </div>

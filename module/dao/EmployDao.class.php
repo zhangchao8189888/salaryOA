@@ -17,10 +17,10 @@ class EmployDao extends BaseDao
     }
     function addEm($employ){
 		$sql="insert into OA_employ 
-		(e_name,e_company_id,e_company,e_num,bank_name,bank_num,e_type,shebaojishu,gongjijinjishu,laowufei,canbaojin,danganfei,memo,e_hetongnian,e_hetong_date,e_state,department_id,update_time)
+		(e_name,e_company_id,e_company,e_num,bank_name,bank_num,e_type,shebaojishu,gongjijinjishu,laowufei,canbaojin,danganfei,memo,e_hetongnian,e_hetong_date,e_status,department_id,e_sort,update_time)
 		 values ('{$employ["e_name"]}',{$employ["e_company_id"]},'{$employ["e_company"]}','{$employ["e_num"]}','{$employ["bank_name"]}','{$employ["bank_num"]}',{$employ["e_type"]},
 		{$employ["shebaojishu"]},{$employ["gongjijinjishu"]},{$employ["laowufei"]},{$employ["canbaojin"]},{$employ["danganfei"]},'{$employ["memo"]}',{$employ["e_hetongnian"]},'{$employ["e_hetong_date"]}',
-		{$employ["e_state"]},{$employ["department_id"]},now())";
+		{$employ["e_status"]},{$employ["department_id"]},{$employ["e_sort"]},now())";
 		$result=$this->g_db_query($sql);
 		return $result;
     }
@@ -29,6 +29,7 @@ class EmployDao extends BaseDao
         if ($departmentId) {
             $sql .=" and department_id = $departmentId";
         }
+        $sql.=" order by e_sort";
         $result=$this->g_db_query($sql);
         return $result;
     }
@@ -48,7 +49,7 @@ class EmployDao extends BaseDao
     		$sql.=" and e_company like '%$comName%'";
     	}
     	if($eStat!=null){
-    		$sql.=" and e_state=$eStat";
+    		$sql.=" and e_status=$eStat";
     	}
         if($empName!=null){
     		$sql.=" and e_name like '%$empName%'";
@@ -66,7 +67,7 @@ class EmployDao extends BaseDao
             $sql.=" and e_company like '%$comName%'";
         }
         if($eStat!=null){
-            $sql.=" and e_state=$eStat";
+            $sql.=" and e_status=$eStat";
         }
         if($empName!=null){
             $sql.=" and e_name like '%$empName%'";
@@ -111,7 +112,7 @@ class EmployDao extends BaseDao
 		e_name='{$employ["e_name"]}',e_company='{$employ["e_company"]}',e_company_id={$employ["e_company_id"]},
 		e_num='{$employ["e_num"]}',bank_name='{$employ["bank_name"]}',
 		bank_num='{$employ["bank_num"]}',e_type='{$employ["e_type"]}',department_id={$employ["department_id"]},
-		shebaojishu={$employ["shebaojishu"]},gongjijinjishu={$employ["gongjijinjishu"]},e_state={$employ["e_state"]},
+		shebaojishu={$employ["shebaojishu"]},gongjijinjishu={$employ["gongjijinjishu"]},e_status={$employ["e_status"]},
 		laowufei={$employ["laowufei"]},canbaojin={$employ["canbaojin"]},e_hetongnian={$employ["e_hetongnian"]},e_hetong_date='{$employ["e_hetong_date"]}',
 		danganfei={$employ["danganfei"]},memo='{$employ["memo"]}',update_time = now() where id={$employ["id"]}
 		";
@@ -142,12 +143,30 @@ class EmployDao extends BaseDao
     }
     function delEmployByComName($cname){
     	$sql="delete  from OA_employ  where  e_company='$cname'";
-    	echo  $sql;
+    	//echo  $sql;
     	$result=$this->g_db_query($sql);
 		return $result;
     }
     function changeEmployStat($type){
     	$sql="update  OA_employ set ";
+    }
+    function changeEmpIndexByEnum($new_index,$eid){
+        $sql="update  OA_employ set e_sort = $new_index where e_num = $eid";
+
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function changeEmpIndexById($new_index,$eid){
+        $sql="update  OA_employ set e_sort = $new_index where id = $eid";
+
+        $result=$this->g_db_query($sql);
+        return $result;
+    }
+    function changeEmpSortBySort($old_index,$new_index){
+        $sql="update  OA_employ set e_sort = $new_index where e_sort = $old_index";
+
+        $result=$this->g_db_query($sql);
+        return $result;
     }
 }
 ?>

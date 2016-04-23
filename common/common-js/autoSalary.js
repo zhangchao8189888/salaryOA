@@ -20,6 +20,46 @@ $(function(){
         manualColumnMove: false,
         manualRowMove: true,
         minSpareRows: 1,
+        afterChange : function (change, source) {
+            if (source === 'loadData' || source === 'updateData' ) {
+                return; //don't save this change
+            }
+//            console.log('Autosaved (' + change.length + ' ' + 'cell' + (change.length > 1 ? 's' : '') + ')');
+            //console.log(change);
+//            console.log(source);
+
+            for(var val in change) {
+                if (UTIL.checkRate(val) && change[val]) {
+                    if (change[val][2] != change[val][3]) {
+                        var row = parseInt(change[val][0]);
+                        var col = parseInt(change[val][1]);
+                        if (!UTIL.checkRate(change[val][3])) {
+                            hot5.setDataAtCell( row, col, change[val][2] , "updateData");
+                        }
+                    }
+
+                }
+            }
+        },
+        afterRowMove:function  (oldIndex, newIndex) {
+            var data = hot6.getData();
+            $.ajax(
+                {
+                    type: "get",
+                    url: "index.php?action=Employ&mode=modifyEmploySort",
+                    data: {
+                        rowData : data
+                        //new_index : (newIndex+1),
+                        //e_num : e_num
+
+                    },
+                    dataType: "json",
+                    success: function(data){
+
+                    }
+                }
+            );
+        },
         persistentState: true
     });
     var selectFirst = document.getElementById('selectFirst'),

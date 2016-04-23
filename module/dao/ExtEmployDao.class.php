@@ -24,7 +24,7 @@ class ExtEmployDao extends BaseDao
             $sql.=" and e_company like '%{$where['e_company']}%'";
         }
         if($where['eStat']!=null){
-            $sql.=" and e_state='{$where['eStat']}'";
+            $sql.=" and e_status='{$where['eStat']}'";
         }
         if($where['e_name']!=null){
             $sql.=" and e_name like '%{$where['e_name']}%'";
@@ -50,7 +50,7 @@ class ExtEmployDao extends BaseDao
             $sql.=" and e_company like '%{$where['e_company']}%'";
         }
         if($where['eStat']!=null){
-            $sql.=" and e_state='{$where['eStat']}'";
+            $sql.=" and e_status='{$where['eStat']}'";
         }
         if($where['e_name']!=null){
             $sql.=" and e_name like '%{$where['e_name']}%'";

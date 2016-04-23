@@ -67,6 +67,9 @@ class EmployAction extends BaseAction {
             case "employDelById" :
                 $this->employDelById();
                 break;
+            case "modifyEmploySort" :
+                $this->modifyEmploySort();
+                break;
             default :
                 $this->modelInput();
                 break;
@@ -104,6 +107,28 @@ class EmployAction extends BaseAction {
         } else {
             $data['code'] = 100001;
             $data['mess'] = '删除失败';
+        }
+        echo json_encode($data);
+        exit;
+    }
+    function modifyEmploySort () {
+        $rowData = $_REQUEST['rowData'];
+        $z = 0 ;
+        foreach ($rowData as $key => $val) {
+            $this->objDao = new EmployDao();
+            $result = $this->objDao->changeEmpIndexByEnum($key+1,$val[1]);
+            if (!$result) {
+                $z++;
+            }
+        }
+
+        $data = array();
+        if ($z == 0) {
+            $data['code'] = 100000;
+            $data['mess'] = '替换成功';
+        } else {
+            $data['code'] = 100001;
+            $data['mess'] = '替换失败';
         }
         echo json_encode($data);
         exit;
@@ -207,12 +232,11 @@ class EmployAction extends BaseAction {
                 for ($_currentColumn = 'A'; $_currentColumn <= $_allColumn; $_currentColumn++) {
                     $address = $_currentColumn . $_r;
                     $val = $_currentSheet->getCell($address)->getValue();
-                    $return['Sheet1'][$_r][] = $val;
+
+                        $return['Sheet1'][$_r][] = $val;
                 }
             }
         }
-//        var_dump($return);
-//        exit;
         $this->objDao = new EmployDao();
         $this->objForm->setFormData("salarylist", $return);
 
@@ -227,31 +251,50 @@ class EmployAction extends BaseAction {
         }
         $company = $this->objDao->getCompanyById($companyId);
         global $userTypeName;
-        for ($i = 2; $i < count($return[Sheet1]); $i++) {
-            $employList[$i]['e_company_id'] = $companyId;
-            $employList[$i]['e_company'] = $company['company_name'];
-            $employList[$i]['e_name'] = $return[Sheet1][$i][1];
-            $employList[$i]['e_num'] = $return[Sheet1][$i][2];
-            $employList[$i]['depart'] = $return[Sheet1][$i][0];
-            $employList[$i]['e_state'] = 1;
-            $employList[$i]['bank_name'] = $return[Sheet1][$i][3];
-            $employList[$i]['bank_num'] = $return[Sheet1][$i][4];
-            $employList[$i]['e_type'] = $userTypeName[$return[Sheet1][$i][5]];
-            $employList[$i]['shebaojishu'] = findNullReturnNumber($return[Sheet1][$i][6]);
-            $employList[$i]['gongjijinjishu'] = findNullReturnNumber($return[Sheet1][$i][7]);
-            $employList[$i]['laowufei'] = findNullReturnNumber($return[Sheet1][$i][8]);
-            $employList[$i]['canbaojin'] = findNullReturnNumber($return[Sheet1][$i][9]);
-            $employList[$i]['danganfei'] = findNullReturnNumber($return[Sheet1][$i][10]);
-            $employList[$i]['memo'] = $return[Sheet1][$i][11];
-            $employList[$i]['e_hetong_date'] = $return[Sheet1][$i][12];
-            $employList[$i]['e_hetongnian'] = findNullReturnNumber($return[Sheet1][$i][13]);
-            $employList[$i]['department_id'] = $department_id;
+        $z = 1;
+        for ($i = 2; $i < count($return["Sheet1"]); $i++) {
+            if($return["Sheet1"][$i][1] == NULL){
+                continue;
+            }
+            $sit = $i-1;
+            $employList[$sit]['e_company_id'] = $companyId;
+            $employList[$sit]['e_company'] = $company['company_name'];
+            $employList[$sit]['e_name'] = $return["Sheet1"][$i][1];
+            $employList[$sit]['e_num'] = $return["Sheet1"][$i][2];
+            $employList[$sit]['depart'] = $return["Sheet1"][$i][0];
+            $employList[$sit]['e_status'] = 1;
+            $employList[$sit]['bank_name'] = $return["Sheet1"][$i][3];
+            $employList[$sit]['bank_num'] = $return["Sheet1"][$i][4];
+            $employList[$sit]['e_type'] = $userTypeName[$return["Sheet1"][$i][5]];
+            $employList[$sit]['shebaojishu'] = findNullReturnNumber($return["Sheet1"][$i][6]);
+            $employList[$sit]['gongjijinjishu'] = findNullReturnNumber($return["Sheet1"][$i][7]);
+            $employList[$sit]['laowufei'] = findNullReturnNumber($return["Sheet1"][$i][8]);
+            $employList[$sit]['canbaojin'] = findNullReturnNumber($return["Sheet1"][$i][9]);
+            $employList[$sit]['danganfei'] = findNullReturnNumber($return["Sheet1"][$i][10]);
+            $employList[$sit]['memo'] = $return["Sheet1"][$i][11];
+            $employList[$sit]['e_hetong_date'] = $return["Sheet1"][$i][12];
+            $employList[$sit]['e_hetongnian'] = findNullReturnNumber($return["Sheet1"][$i][13]);
+            $employList[$sit]['department_id'] = $department_id;
+            $employList[$sit]['e_sort'] = $z;
+            $z++;
 
         }
         $errorList = array();
         $emList = array();
         $j = 0;
         $z = 0;
+        $dataBaseDao = new BaseDataDao();
+        $companyTree = $dataBaseDao->getCompanyRootIdByCompanyId($companyId);
+        if(empty($companyTree)){
+            $treeJson['data']['company_id'] = $companyId;
+            $treeJson['data']['name'] = $company['company_name'];
+            $treeJson['data']['pid'] = 0;
+            $treeJson['data']['isParent'] = 'true';
+            $data = $treeJson['data'];
+            $result = $dataBaseDao->addDepartmentTreeData($data);
+            $last_id = $dataBaseDao->g_db_last_insert_id();
+            $companyTree['id'] = $last_id;
+        }
 
         for ($i = 1; $i <= count($employList); $i++) {
             if ($employList[$i]['e_num']) {
@@ -264,22 +307,19 @@ class EmployAction extends BaseAction {
                     continue;
                 }
                 if (!empty($employList[$i]['depart'])) {
-                    $dataBaseDao = new BaseDataDao();
-                    $dapartment = trim($return[Sheet1][$i][0]);
-
-                    $companyTree = $dataBaseDao->getCompanyRootIdByCompanyId($companyId);
+                    $dapartment = trim($employList[$i]['depart']);
                     $dataDpart = $dataBaseDao->getDepartmentByNameAndComId($dapartment,$companyTree['id']);
                     if (!empty($companyTree) && empty($dataDpart)) {
                         $data['company_id'] = 0;
-                        $data['name'] = $return[Sheet1][$i][0];
+                        $data['name'] = $dapartment;
                         $data['pid'] = $companyTree['id'];
                         $result = $dataBaseDao->addDepartmentTreeData($data);
                         if ($result){
                             $id = $this->objDao->g_db_last_insert_id();
                             $employList[$i]['department_id'] = $id;
-                        } else {
-                            $employList[$i]['department_id'] = $department_id;
                         }
+                    } else if($dataDpart['id']){
+                        $employList[$i]['department_id'] = $dataDpart['id'];
                     }
                 }
                 $retult = $this->objDao->addEm($employList[$i]);
@@ -366,7 +406,7 @@ class EmployAction extends BaseAction {
             $employ['e_type_name'] = $userType[$row['e_type']];
             $employ['shebaojishu'] = $row['shebaojishu'];
             $employ['gongjijinjishu'] = $row['gongjijinjishu'];
-            $employ['e_state_name'] = $employState[$row['e_state']];
+            $employ['e_state_name'] = $employState[$row['e_status']];
             $employList[] = $employ;
         }
         $this->objForm->setFormData("employList",$employList);
@@ -401,7 +441,7 @@ class EmployAction extends BaseAction {
         $employ['danganfei'] = $_POST['danganfei'];
         $employ['e_hetongnian'] = $_POST['e_hetongnian'];
         $employ['e_hetong_date'] = $_POST['e_hetong_date'];
-        $employ['e_state'] = $_POST['e_state'];
+        $employ['e_status'] = $_POST['e_status'];
         $employ['department_id'] = $_POST['department_id'];
         $employ['memo'] = $_POST['memo'];
         $this->objDao = new EmployDao();

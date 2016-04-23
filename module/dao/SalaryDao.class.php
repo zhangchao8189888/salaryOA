@@ -13,6 +13,23 @@ class SalaryDao extends BaseDao {
     function SalaryDao() {
         parent::BaseDao ();
     }
+    function getSumSalByDeaprtId($salTimeId,$departId){
+        $sql = "select sum(per_shifaheji) as per_shifaheji,sum(per_daikoushui) as per_daikoushui,sum(com_heji) as com_heji  from OA_salary where employid in (select e_num from OA_employ where department_id = $departId) and salaryTimeId = $salTimeId";
+        $result=$this->g_db_query($sql);
+        return mysql_fetch_array($result);
+    }
+    function getSalListByEmpNum($enum,$salTimeId){
+        $sql = " select  per_shifaheji from OA_salary
+        where employId = '".$enum."'
+        and salaryTimeId = $salTimeId ";
+
+        $result=$this->g_db_query($sql);
+
+        return mysql_fetch_array($result);
+    }
+    function getSalSumByDepartmentId(){
+
+    }
     function getDianfuOrYanfu ($yandianfu) {
         $sql = "select oe.e_name,oe.e_num ,oy.*  from OA_yanOrDian oy,OA_employ oe where oy.employ_num = oe.e_num and oy.salary_time_id = {$yandianfu['salTimeId']} ";
         if ($yandianfu['yanOrdian_type']) {
@@ -1055,7 +1072,7 @@ ON c.id = d.company_level where  1 = 1
     }
     // 离职设置BY孙瑞鹏
     function setTypeLizhi($sid) {
-        $sql = "UPDATE OA_employ SET e_state =1 where e_num = '{$sid}' ";
+        $sql = "UPDATE OA_employ SET e_status =1 where e_num = '{$sid}' ";
         $list = $this->g_db_query ( $sql );
         return $list;
     }

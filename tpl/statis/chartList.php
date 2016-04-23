@@ -1,5 +1,10 @@
 <?php
 $department=$form_data['department'];
+$per_shifaheji=$form_data['per_shifaheji'];
+$per_daikoushui=$form_data['per_daikoushui'];
+$com_heji=$form_data['com_heji'];
+$salTime=$form_data['salTime'];
+
 ?>
 <script type="text/javascript">
     $(function () {
@@ -89,33 +94,56 @@ $department=$form_data['department'];
                 shadow: false
             },
             tooltip: {
-                formatter: function() {
-                    return '<b>'+ this.x +'</b><br/>'+
-                        this.series.name +': '+ this.y +'<br/>'+
-                        'Total: '+ this.point.stackTotal;
-                }
+                headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+                pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                    '<td style="padding:0"><b>{point.y:.1f} 元</b></td></tr>',
+                footerFormat: '</table>',
+                shared: true,
+                useHTML: true
             },
             plotOptions: {
                 column: {
-                    stacking: 'normal',
-                    dataLabels: {
-                        enabled: true,
-                        color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+                    plotOptions: {
+                        column: {
+                            pointPadding: 0.2,
+                            borderWidth: 0
+                        }
                     }
                 }
             },
             series: [  {
-                name: '应发合计',
+                name: '个人应发合计',
                 color: '#C0C0C0',
-                data: [88.4, 21.8, 20.1, 20,50,60,70,80,90,100]
+                data: [<?php $i = 1;foreach($per_shifaheji as $val) {
+                if($i == count($per_shifaheji)){
+                 echo $val;
+                }else {
+                echo $val.",";
+                }
+                $i++;
+                } ?>]
             },{
                 name: '代扣税',
                 color: '#FF8000',
-                data: [88.4, 21.8, 20.1, 20,50,60,70,80,90,100]
+                data: [<?php $i = 1;foreach($per_daikoushui as $val) {
+                if($i == count($per_daikoushui)){
+                 echo $val;
+                }else {
+                echo $val.",";
+                }
+                $i++;
+                } ?>]
             },{
-                name: '补扣税',
+                name: '公司部分合计',
                 color: '#50B432',
-                data: [88.4, 21.8, 20.1, 20,50,60,70,80,90,100]
+                data: [<?php $i = 1;foreach($com_heji as $val) {
+                if($i == count($com_heji)){
+                 echo $val;
+                }else {
+                echo $val.",";
+                }
+                $i++;
+                } ?>]
             }]
         });
     });
@@ -137,7 +165,12 @@ $department=$form_data['department'];
                 <div class="widget-content" >
                     <div class="row-fluid">
                         <div class="span12">
+                            <form action="index.php?action=Statis&mode=toChartList" method="post" >
+                            工资月份：<input type="text" id="salaryDate" name="salaryDate" value="<?php echo $salTime;?>"  onFocus="WdatePicker({isShowClear:false,readOnly:true,dateFmt:'yyyy-MM',realDateFmt:'yyyy-MM'})"/>
+                            <input type="submit" value="查询" class="btn btn-success" id="searchSal" />
+                            </form>
                             <div class="pie" id="container1"></div>
+
                         </div>
                     </div>
                 </div>

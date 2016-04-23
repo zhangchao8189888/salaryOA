@@ -44,7 +44,7 @@ $admin=$_SESSION['admin'];
                         $("#danganfei").val(data.danganfei);
                         $("#e_hetongnian").val(data.e_hetongnian);
                         $("#e_hetong_date").val(data.e_hetong_date);
-                        $("#e_state").val(data.e_state);
+                        $("#e_status").val(data.e_status);
                         $("#memo").val(data.memo)
                         if (data.department_id == 0) {
                             $("#department").val('无部门');
@@ -286,7 +286,7 @@ $admin=$_SESSION['admin'];
                 <div class="control-group">
                     <label class="control-label">员工状态：</label>
                     <div class="controls">
-                        <select name="e_state" id="e_state"/>
+                        <select name="e_status" id="e_status"/>
                         <option value="1">正常</option>
                         <option value="2">离职</option>
                         </select>
@@ -345,5 +345,33 @@ $admin=$_SESSION['admin'];
         <div class="extra-list-ctn"><a href="javascript:void(0);" id="quickChooseProduct" class="quick-add-link"><i class="ui-icon-choose"></i>选择客户</a></div>
     </div>
 </div>
+<!--修改----start-->
+<div class="modal hide" id="modal-event2">
 
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">×</button>
+        <h3>排序修改</h3>
+    </div>
+    <div class="modal-body">
+        <form id="tag_form">
+            <div class="form-horizontal form-alert">
+                <div class="control-group">
+                    <label class="control-label"><em class="red-star">*</em>排序号 :</label>
+                    <div class="controls">
+                        <input type="text" id="new_sort" name="new_sort" placeholder="排序号">
+                        <input type="hidden" id="old_sort" value="" />
+                        <input type="hidden" id="id" value="" />
+                        <input type="hidden" id="p_id" value="" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="modal-footer modal_operate">
+        <button type="button" class="btn_sort btn btn-primary">保存</button>
+        <a href="#" class="btn" data-dismiss="modal">取消</a>
+    </div>
+</div>
+<!--修改----end-->
 

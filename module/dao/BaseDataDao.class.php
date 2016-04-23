@@ -111,6 +111,12 @@ class BaseDataDao extends BaseDao
         $result=$this->g_db_query($sql);
         return $result;
     }
+    function getCountEmlistbyDepartId($departId){
+        $sql="select count(*) as cnt  from  OA_employ  where department_id = $departId";
+        $result=$this->g_db_query($sql);
+        $count = mysql_fetch_array($result);
+        return $count['cnt'];
+    }
     function getEmployById($eid){
         $sql="select *  from OA_employ where id=$eid";
         //echo $sql;
@@ -127,7 +133,7 @@ class BaseDataDao extends BaseDao
         if ($departmentId)  {
             $sql .=" and department_id = $departmentId  ";
         }
-        $sql .= "order by update_time desc";
+        $sql .= "order by update_time ";
         $result=$this->g_db_query($sql);
         return $result;
     }

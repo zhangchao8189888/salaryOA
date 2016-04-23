@@ -101,7 +101,7 @@ $memu1=array(
             ),
         ),
     ),
-    '2' => array(
+    /*'2' => array(
         'action' => 'Company',
         'resource'   => '企业管理',
         'icon'		 =>	'group',
@@ -112,7 +112,7 @@ $memu1=array(
                 'resource'	=> '企业信息',
             ),
         ),
-    ),
+    ),*/
     '3' => array(
         'action' => 'Employ',
         'resource'   => '员工管理',

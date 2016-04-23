@@ -9222,7 +9222,7 @@ Handsontable.hooks.register('afterColumnSort');
         },
         {
           key: 'row_below',
-          name: '在上面插入一行',
+          name: '在下面插入一行',
           callback: function (key, selection) {
             this.alter("insert_row", selection.end.row + 1);
           },
@@ -9237,7 +9237,7 @@ Handsontable.hooks.register('afterColumnSort');
         ContextMenu.SEPARATOR,
         {
           key: 'col_left',
-          name: 'Insert column on the left',
+          name: '在左面插入一列',
           callback: function (key, selection) {
             this.alter("insert_col", selection.start.col);
           },
@@ -9251,7 +9251,7 @@ Handsontable.hooks.register('afterColumnSort');
         },
         {
           key: 'col_right',
-          name: 'Insert column on the right',
+          name: '在右面插入一列',
           callback: function (key, selection) {
             this.alter("insert_col", selection.end.col + 1);
           },
@@ -9266,7 +9266,7 @@ Handsontable.hooks.register('afterColumnSort');
         ContextMenu.SEPARATOR,
         {
           key: 'remove_row',
-          name: 'Remove row',
+          name: '删除行',
           callback: function (key, selection) {
             var amount = selection.end.row - selection.start.row + 1;
             this.alter("remove_row", selection.start.row, amount);

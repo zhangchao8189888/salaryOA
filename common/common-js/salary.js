@@ -85,7 +85,7 @@ $(document).ready(function () {
         data: [],
         startRows: 5,
         startCols: 4,
-        colWidths: [55, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80, 80], //can also be a number or a function
+        colWidths: [], //can also be a number or a function
         rowHeaders: true,
         colHeaders: [],
         stretchH: 'last',

@@ -15,7 +15,7 @@ $(function(){
             obj.bank_no = $("#bank_no").val();
             obj.e_bank = $("#e_bank").val();
             obj.e_type = $("#e_type").val();
-            obj.e_state = $("#e_state").val();
+            obj.e_status = $("#e_status").val();
             obj.employ_id = $("#employ_id").val();
             obj.shebaojishu = $("#shebaojishu").val();
             obj.gongjijinjishu = $("#gongjijinjishu").val();

@@ -36,3 +36,4 @@
 <script type="text/javascript" src="common/js/datepicker/WdatePicker.js"></script>
 <script type="text/javascript" src="common/common-js/baseView.js"></script>
 <script type="text/javascript" src="common/common-js/step.js"></script>
+<script type="text/javascript" src="common/common-js/common.js"></script>

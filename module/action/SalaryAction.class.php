@@ -1563,14 +1563,13 @@ class SalaryAction extends BaseAction {
         $fullfilepath = UPLOADPATH . $_FILES['file']['name'];
         $errorMsg = "";
         //var_dump($_FILES);
-        $fileArray = split("\.", $_FILES['file']['name']);
-
+        $fileArray = explode(".", $_FILES['file']['name']);
         if (count($fileArray) != 2) {
             $this->mode = "toSalaryUpload";
             $errorMsg = '文件名格式 不正确';
             $this->objForm->setFormData("error", $errorMsg);
             return;
-        } else if ($fileArray[1] != 'xls') {
+        } else if ($fileArray[1] != 'xls' && $fileArray[1] != 'xlsx' ) {
             $this->mode = "toSalaryUpload";
             $errorMsg = '文件类型不正确，必须是xls类型';
             $this->objForm->setFormData("error", $errorMsg);

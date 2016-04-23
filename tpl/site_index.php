@@ -86,7 +86,7 @@ $notice=$form_data['notice'];
         <div class="row-fluid" >
             <div class="span12">
                 <div class="sheet__heading text-center"  >
-                    <h1 class="giga text-heading-alt text-primary xs-margin-null xs-margin-bottom-small sm-margin-bottom-small md-margin-bottom-small">员工个人查询平台</h1>
+                    <h1 class="giga text-heading-alt text-primary xs-margin-null xs-margin-bottom-small sm-margin-bottom-small md-margin-bottom-small">人事通平台</h1>
                     <div class="content--large xs-margin-bottom-large md-margin-bottom-large">
                         <p class="weight--normal xs-margin-null text-primary">
                             让我们一起共创未来！
